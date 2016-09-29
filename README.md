@@ -35,7 +35,7 @@ eBook available (Kindle: $15.72)
 160 pages
 http://physicalmodelingwithpython.blogspot.com
 
-# Other books that may be of interest:
+### Other books that may be of interest:
 Mathematical Modeling in Chemical Engineering 
 Author: Anders Rasmuson, Bengt Andersson, Louise Olsson, Ronnie Andersson
 Publisher: Cambridge University Press, May 2014
@@ -52,7 +52,7 @@ eBook available (Kindle $18.35)
 552 pages
 http://physics.codes
 
-## Other teaching material:
+### Other teaching material:
 
 "Practical Numerical Methods with Python" is an open, online course hosted on an independent installation of the Open edX software platform for MOOCs, first run by Lorena A. Barba, George Washington University. https://github.com/numerical-mooc/
 
