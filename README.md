@@ -62,4 +62,7 @@ Software Carpentry - Teaching basic lab skills for research computing.
 All of our lessons are freely available under the Creative Commons - Attribution License.
 http://software-carpentry.org/lessons/ 
 
+## TRACE participation
+Participation in the Teacher Rating And Course Evaluation (TRACE) survey at the end of the course is important and expected. 
+But don't wait until then to give feedback! Tell the instructor as soon as you have an idea that might improve the course.
 
