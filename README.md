@@ -30,13 +30,13 @@ Topics include:
 A Student’s Guide to Python for Physical Modeling
 Authors: Jesse M. Kinder & Philip Nelson
 Publisher: Princeton University Press, July 2015
-Paperback: $24.95 
+Paperback: $24.95
 eBook available (Kindle: $15.72)
 160 pages
 http://physicalmodelingwithpython.blogspot.com
 
 ### Other books that may be of interest:
-Mathematical Modeling in Chemical Engineering 
+Mathematical Modeling in Chemical Engineering
 Author: Anders Rasmuson, Bengt Andersson, Louise Olsson, Ronnie Andersson
 Publisher: Cambridge University Press, May 2014
 Hard cover: $69.99
@@ -56,13 +56,13 @@ http://physics.codes
 
 "Practical Numerical Methods with Python" is an open, online course hosted on an independent installation of the Open edX software platform for MOOCs, first run by Lorena A. Barba, George Washington University. https://github.com/numerical-mooc/
 
-Anselmo Buso and Monica Giomo (2011). Mathematical Modeling in Chemical Engineering: A Tool to Analyse Complex Systems, Numerical Simulations of Physical and Engineering Processes, Prof. Jan Awrejcewicz (Ed.), ISBN: 978-953-307-620-1, InTech, Available from: http://dx.doi.org/10.5772/24806 
+Anselmo Buso and Monica Giomo (2011). Mathematical Modeling in Chemical Engineering: A Tool to Analyse Complex Systems, Numerical Simulations of Physical and Engineering Processes, Prof. Jan Awrejcewicz (Ed.), ISBN: 978-953-307-620-1, InTech, Available from: http://dx.doi.org/10.5772/24806
 
 Software Carpentry - Teaching basic lab skills for research computing.
 All of our lessons are freely available under the Creative Commons - Attribution License.
-http://software-carpentry.org/lessons/ 
+http://software-carpentry.org/lessons/
 
 ## TRACE participation
-Participation in the Teacher Rating And Course Evaluation (TRACE) survey at the end of the course is important and expected. 
+Participation in the Teacher Rating And Course Evaluation (TRACE) survey at the end of the course is important and expected.
 But don't wait until then to give feedback! Tell the instructor as soon as you have an idea that might improve the course.
 
