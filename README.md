@@ -66,3 +66,9 @@ http://software-carpentry.org/lessons/
 Participation in the Teacher Rating And Course Evaluation (TRACE) survey at the end of the course is important and expected.
 But don't wait until then to give feedback! Tell the instructor as soon as you have an idea that might improve the course.
 
+## Academic integrity.
+Please be familiar with the Northeastern University Academic Integrity Policy which you can find at  http://www.northeastern.edu/osccr/academic-integrity-policy/.
+Read it at least once per semester, to remind yourself the details.
+Relating to this course:
+* Using code snippets found online is a common way to program, but in an academic setting especially it is important that you add a comment where you got it from.
+* Collaboration with classmates is usually encouraged in this course, but unauthorized collaboration when explicitly asked not to is cheating. In any case: when helping others, try not to just give them your code, but help them figure it out themselves. They will learn better.
