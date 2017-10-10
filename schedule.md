@@ -52,7 +52,31 @@ Book reviews
 * discuss stiff ODE solvers (meaning of stiffness)
 * discuss projects
 
-### HW (7?)
+### HW 7
 Prepare a presentation/pitch describing a possible project idea.
 
 ## Lecture 7 (9/27)
+* Project presentations
+
+## Lecture 8 (10/2)
+* More project presentations
+* Getting into groups for projects, and discussing
+
+### HW 8
+Kinetic Monte Carlo for rabbits and foxes.
+
+## Lecture 9 (10/4)
+* git remotes, branches, pull requests, (for homework submission)
+* lists vs. numpy arrays
+* Making your code faster (when to optimize, how to benchmark, how to profile, etc.)
+* Kinetic Monte Carlo algorithm refresher (timesteps, events, etc.)
+* Convergence (how many KMC simulations required?)
+* Projects. Group assignments
+* Literature search: What has been done before (theory, models). What is the question to address?
+
+_no lecture on 10/9 due to holiday_
+
+### HW 9
+Literature Survey
+
+## Lecture 10 (10/11)
