@@ -80,3 +80,14 @@ _no lecture on 10/9 due to holiday_
 Literature Survey
 
 ## Lecture 10 (10/11)
+* Linear regression (`scipy.stats.linregress`)
+* Nonlinear regression (`scipy.optimize.curve_fit`)
+* Regression with uncertain x values (eg. `scipy.odr`, though only discussed, not used)
+
+### HW 10
+Regression https://github.com/CHME5137/regression
+
+## Lecture 11 (10/16)
+
+
+## Lecture 12 (10/18)
