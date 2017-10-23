@@ -88,6 +88,12 @@ Literature Survey
 Regression https://github.com/CHME5137/regression
 
 ## Lecture 11 (10/16)
-
+* Boundary Value Problems
+* Partial differential equations
+* https://github.com/CHME5137/PDEs
 
 ## Lecture 12 (10/18)
+* Regression homework
+* Debugging
+
+## Lecture 13 (10/23)
