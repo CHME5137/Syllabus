@@ -97,3 +97,10 @@ Regression https://github.com/CHME5137/regression
 * Debugging
 
 ## Lecture 13 (10/23)
+* Mid-semester survey
+* Regression again
+* Discovery cluster (discussion/intro)
+* Sensitivity Analysis (principles/discussion)
+
+## Lecture 14 (10/25)
+* Sensitivity analysis
