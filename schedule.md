@@ -104,3 +104,15 @@ Regression https://github.com/CHME5137/regression
 
 ## Lecture 14 (10/25)
 * Sensitivity analysis
+
+## Lecture 15 (10/30)
+Prof. West at AIChE conference.
+* Using discovery
+* Projects
+
+## Lecture 16 (11/1)
+Prof. West at AIChE conference.
+* Using discovery
+* Projects
+
+## Lecture 17 (11/6)
