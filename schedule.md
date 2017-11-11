@@ -116,3 +116,10 @@ Prof. West at AIChE conference.
 * Projects
 
 ## Lecture 17 (11/6)
+Projects
+
+## Lecture 18 (11/8)
+LaTeX
+
+## Lecture 19 (11/13)
+Data
