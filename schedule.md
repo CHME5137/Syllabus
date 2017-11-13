@@ -106,20 +106,45 @@ Regression https://github.com/CHME5137/regression
 * Sensitivity analysis
 
 ## Lecture 15 (10/30)
-Prof. West at AIChE conference.
+*Prof. West at AIChE conference.*
 * Using discovery
 * Projects
 
 ## Lecture 16 (11/1)
-Prof. West at AIChE conference.
+*Prof. West at AIChE conference.*
 * Using discovery
 * Projects
 
-## Lecture 17 (11/6)
+## Lecture 17 (11/6 M)
 Projects
 
-## Lecture 18 (11/8)
+## Lecture 18 (11/8 W)
 LaTeX
 
-## Lecture 19 (11/13)
-Data
+----
+## Lecture 19 (11/13 M)
+
+## Lecture 20 (11/15 W)
+
+## Lecture 21 (11/20 M)
+
+*No class on 11/22 for Thanksgiving*
+
+## Lecture 22 (11/27 M)
+
+## Lecture 23 (11/29 W)
+
+## Lecture 24 (12/4 M)
+
+## Lecture 25 (12/6 W)
+
+
+*Grade deadline 12/18*
+----
+
+# Remaining topics
+- [ ] Chemical Kinetics (cantera)
+- [ ] "Big" data (pandas)
+- [ ] Population balance models
+- [ ] Optimization
+- [ ] Machine Learning?
