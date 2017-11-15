@@ -121,10 +121,12 @@ Projects
 ## Lecture 18 (11/8 W)
 LaTeX
 
-----
 ## Lecture 19 (11/13 M)
+Chemical Kinetics with Cantera
 
 ## Lecture 20 (11/15 W)
+Population Balance Modelling
+----
 
 ## Lecture 21 (11/20 M)
 
@@ -143,7 +145,7 @@ LaTeX
 ----
 
 # Remaining topics
-- [ ] Chemical Kinetics (cantera)
+- [x] Chemical Kinetics (cantera)
 - [ ] "Big" data (pandas)
 - [ ] Population balance models
 - [ ] Optimization
