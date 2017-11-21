@@ -125,10 +125,12 @@ LaTeX
 Chemical Kinetics with Cantera
 
 ## Lecture 20 (11/15 W)
-Population Balance Modelling
-----
+* Discuss the Reaction & Diffusion homework
+* Population Balance Modelling
 
 ## Lecture 21 (11/20 M)
+* Population Balance Modelling
+* Projects
 
 *No class on 11/22 for Thanksgiving*
 
@@ -142,11 +144,11 @@ Population Balance Modelling
 
 
 *Grade deadline 12/18*
-----
+
 
 # Remaining topics
 - [x] Chemical Kinetics (cantera)
 - [ ] "Big" data (pandas)
-- [ ] Population balance models
+- [x] Population balance models
 - [ ] Optimization
 - [ ] Machine Learning?
