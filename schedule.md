@@ -137,8 +137,10 @@ Chemical Kinetics with Cantera
 ## Lecture 22 (11/27 M)
 
 ## Lecture 23 (11/29 W)
+Pandas for Polyethylene debugging
 
 ## Lecture 24 (12/4 M)
+Machine Learning
 
 ## Lecture 25 (12/6 W)
 
