@@ -143,6 +143,11 @@ Pandas for Polyethylene debugging
 Machine Learning
 
 ## Lecture 25 (12/6 W)
+* Assignment Assessment
+* Improving the course
+* Scikit-learn http://scikit-learn.org/
+* Optimization
+* autograd https://github.com/HIPS/autograd
 
 
 *Grade deadline 12/18*
@@ -150,7 +155,7 @@ Machine Learning
 
 # Remaining topics
 - [x] Chemical Kinetics (cantera)
-- [ ] "Big" data (pandas)
+- [x] "Big" data (pandas)
 - [x] Population balance models
-- [ ] Optimization
-- [ ] Machine Learning?
+- [x] Optimization
+- [x] Machine Learning?
