@@ -26,6 +26,7 @@ Topics include:
 *	Regression and machine learning; empirical models.
 *	Monte Carlo simulations
 *	Global and local sensitivity analysis 
+* Debugging
 
 ## Course textbook:
 A Student’s Guide to Python for Physical Modeling
