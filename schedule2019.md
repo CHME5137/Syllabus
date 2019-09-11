@@ -14,4 +14,4 @@
 * Duck typing.
 * Loops (`for x in y:`), control flow (`if z:`)
 * Functions
-* Plotting?
+* Factorial!
