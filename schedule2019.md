@@ -15,3 +15,13 @@
 * Loops (`for x in y:`), control flow (`if z:`)
 * Functions
 * Factorial!
+
+## Homework 1 (9/13)
+* CodingBat python practice
+
+## Lecture 3 (9/13)
+* Differential equations, Simple Euler method to solve
+* Numerical Convergence. How and why and when.
+
+- [ ] CodingBat
+- [ ] VSCode
