@@ -16,12 +16,20 @@
 * Functions
 * Factorial!
 
-## Homework 1 (9/13)
-* CodingBat python practice
+### Homework 1 (9/13)
+* CodingBat Python practice
 
 ## Lecture 3 (9/13)
 * Differential equations, Simple Euler method to solve
 * Numerical Convergence. How and why and when.
 
+### Homework 2 (9/17)
+* Runge-Kutta RK4 and convergence
+* `scipy.integrate.solve_ivp`
+
+## Lecture 4 (9/17)
+* projects brainstorm?
+
 - [ ] CodingBat
 - [ ] VSCode
+
