@@ -25,7 +25,7 @@
 
 ### Homework 2 (9/17)
 * Runge-Kutta RK4 and convergence
-* `scipy.integrate.solve_ivp`
+
 
 ## Lecture 4 (9/17)
 * Runge-Kutta RK4
@@ -37,7 +37,7 @@
 * Flesh out a project
 
 ## Lecture 5 (9/20)
-* 
+* `scipy.integrate.solve_ivp`
 
 
 - [ ] CodingBat
