@@ -28,7 +28,17 @@
 * `scipy.integrate.solve_ivp`
 
 ## Lecture 4 (9/17)
-* projects brainstorm?
+* Runge-Kutta RK4
+* Numpy arrays
+* Projects brainstorm
+* Fleshing out a project idea (how to cook an egg)
+
+### Homework 3 (9/20)
+* Flesh out a project
+
+## Lecture 5 (9/20)
+* 
+
 
 - [ ] CodingBat
 - [ ] VSCode
