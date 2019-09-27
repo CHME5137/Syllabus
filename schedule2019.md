@@ -39,6 +39,15 @@
 ## Lecture 5 (9/20)
 * `scipy.integrate.solve_ivp`
 
+### Homework 4
+* Improve a project outline
+
+## Lecture 6 (9/24)
+* Kinetic Monte Carlo
+
+## Lecture 7 (9/27)
+
+
 
 - [ ] CodingBat
 - [ ] VSCode
