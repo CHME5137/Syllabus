@@ -46,7 +46,10 @@
 * Kinetic Monte Carlo
 
 ## Lecture 7 (9/27)
+* Debugging
 
+### Homework 5 (10/1)
+* Kinetic Monte Carlo
 
 
 - [ ] CodingBat
