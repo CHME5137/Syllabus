@@ -51,6 +51,17 @@
 ### Homework 5 (10/1)
 * Kinetic Monte Carlo
 
+## Lecture 8 (10/4)
+* Regression
+
+## Lecture 9 (10/8)
+* How we did the regression homework
+* Some talk of projects
+
+## Lecture 10 (10/11)
+
+* PDEs?
+
 
 - [ ] CodingBat
 - [ ] VSCode
