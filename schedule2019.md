@@ -59,10 +59,28 @@
 * Some talk of projects
 
 ## Lecture 10 (10/11)
+* Sensitivity analysis
 
+### Homework 6 (10/15)
+* Git and github
+
+## Lectuer 11 (10/15)
+* Git and github?
 * PDEs?
 
+### Homeworks
+- [ ] Bash
+- [ ] Book reviews
+- [ ] Rabbits and foxes diffusing
 
+### Topics
+- [ ] PDEs
 - [ ] CodingBat
 - [ ] VSCode
+- [ ] Bash
+- [ ] LaTeX
+- [ ] Cantera
+
+
+
 
