@@ -110,12 +110,14 @@ Day before Thanksgiving recess
 
 ### Topics
 - [ ] PDEs
-- [ ] CodingBat
-- [ ] VSCode
 - [ ] Bash
 - [ ] LaTeX
+- [ ] Population Balance Modeling
 - [ ] Cantera
-
+- [ ] Pandas (polyethylene?)
+- [ ] machine learning
+- [ ] CodingBat
+- [ ] VSCode
 
 
 
