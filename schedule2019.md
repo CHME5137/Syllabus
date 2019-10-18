@@ -64,9 +64,44 @@
 ### Homework 6 (10/15)
 * Git and github
 
-## Lectuer 11 (10/15)
-* Git and github?
-* PDEs?
+## Lecture 11 (10/15)
+* Git and github
+
+## Lecture 12 (10/18)
+* PDEs
+
+### Homework 7 (10/22)
+Bash and sign up for Discovery
+
+## Lecture 13 (10/22)
+
+## Lecture 14 (10/25)
+
+## Lecture 15 (10/29) - Prof. West Away
+
+## Lecture 16 (11/1) F
+
+## Lecture 17 (11/5) T
+
+## Lecture 18 (11/8) F
+
+## Lecture 19 (11/12) - Prof. West Away (AIChE)
+
+## Lecture 20 (11/15) F
+
+## Lecture 21 (11/19) T
+
+## Lecture 22 (11/22) F
+
+## Lecture 23 (11/26) T 
+Day before Thanksgiving recess
+
+## Thanksgiving recess (11/29) F
+
+## Lecture 24 (12/4) T
+
+## Lecture 25 (12/6) F
+
 
 ### Homeworks
 - [ ] Bash
