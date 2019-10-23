@@ -70,10 +70,12 @@
 ## Lecture 12 (10/18)
 * PDEs
 
-### Homework 7 (10/22)
-Bash and sign up for Discovery
-
 ## Lecture 13 (10/22)
+* Linux
+* Projects
+
+### Homework 7 (10/25)
+Bash and sign up for Discovery
 
 ## Lecture 14 (10/25)
 
