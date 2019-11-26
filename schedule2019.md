@@ -88,12 +88,14 @@ Bash and sign up for Discovery
 ## Lecture 18 (11/8) F
 
 ## Lecture 19 (11/12) - Prof. West Away (AIChE)
+* Discovery
 
 ## Lecture 20 (11/15) F
 
 ## Lecture 21 (11/19) T
 
 ## Lecture 22 (11/22) F
+* Population Balances
 
 ## Lecture 23 (11/26) T 
 Day before Thanksgiving recess
@@ -111,11 +113,11 @@ Day before Thanksgiving recess
 - [ ] Rabbits and foxes diffusing
 
 ### Topics
-- [ ] PDEs
-- [ ] Bash
-- [ ] LaTeX
-- [ ] Population Balance Modeling
-- [ ] Cantera
+- [x] PDEs
+- [x] Bash
+- [x] LaTeX
+- [x] Population Balance Modeling
+- [x] Cantera
 - [ ] Pandas (polyethylene?)
 - [ ] machine learning
 - [ ] CodingBat
