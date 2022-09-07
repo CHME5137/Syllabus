@@ -2,14 +2,14 @@
 ## CHME 5137 – Computational Modeling in Chemical Engineering
 Instructor: 	Prof. Richard H. West   r.west@northeastern.edu
 
-Fall 2019: 	Tuesday and Friday, 9:50 – 11:30pm,  270 Ryder
+Fall 2022: 	Tuesday and Friday, 9:50 – 11:30pm,  Snell Library 049
 
 ## Short Catalog Description:
 Building on chemical engineering fundamentals, introduces computer programming to allow simulation of physical, chemical, and biological systems. Covers numerical experiments (eg. Monte Carlo, global sensitivity analysis) to learn the significance of parameters and model assumptions. Students work on a research or design project throughout the course.
 Prerequisites: CHME3312 and CHME3322.
 
 ## Longer Description:
-This course should equip chemical engineering students to create a computational model of any physical, chemical, or biological system, and perform numerical experiments on the model to learn the significance of parameters and model assumptions.  The course will integrate thermodynamics, kinetics, transport, and mathematics, with applications in chemistry, biology, and materials science. Faced with a modeling challenge, students will learn to define the problem, split it into sub-systems, develop mathematical models of each sub-system, implement these in Python, and thus construct a model to represent the whole process. Monte Carlo, uncertainty analysis, and global sensitivity analysis methods will then be used to test and learn from the model.  Students will also learn essential software carpentry skills, such as using the Linux command prompt, version control, and distributed computing on a cluster.
+This course should equip chemical engineering students to create a computational model of any physical, chemical, or biological system, and perform numerical experiments on the model to learn the significance of parameters and model assumptions.  The course will integrate thermodynamics, kinetics, transport, and mathematics, with applications in chemistry, biology, and materials science. Faced with a modeling challenge, students will learn to define the problem, split it into sub-systems, develop mathematical models of each sub-system, implement these in Python, and thus construct a model to represent the whole process. Monte Carlo, uncertainty analysis, and global sensitivity analysis, and Bayesian parameter estimation methods will then be used to test and learn from the model. Students will also learn essential software carpentry skills, such as using the Linux command prompt, version control, and distributed computing on a cluster.
 
 There will be assignments for each module, but primarily the assessment will be project based, with students working on their project throughout the semester. The final project report should be publication-quality, and students should expect to be able to submit to a peer-reviewed journal with minimal extra work.
 
@@ -26,14 +26,15 @@ Topics include:
 *	Regression and machine learning; empirical models.
 *	Monte Carlo simulations
 *	Global and local sensitivity analysis 
-* Debugging
+*	Bayesian Parameter Estimation
+*	Debugging
 
 ## Course textbook:
-A Student’s Guide to Python for Physical Modeling
+A Student’s Guide to Python for Physical Modeling: Second Edition
 Authors: Jesse M. Kinder & Philip Nelson
 Publisher: Princeton University Press, July 2015
 Paperback: $24.95
-eBook available (Kindle: $15.72)
+eBook available (Kindle: $14.72)
 168 pages
 http://physicalmodelingwithpython.blogspot.com
 
@@ -70,22 +71,23 @@ But don't wait until then to give feedback! Tell the instructor as soon as you h
 
 ## Academic integrity.
 Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.
-Please be familiar with the Northeastern University Academic Integrity Policy which you can find at  http://www.northeastern.edu/osccr/academic-integrity-policy/.
+Please be familiar with the Northeastern University Academic Integrity Policy which you can find at  https://osccr.sites.northeastern.edu/academic-integrity-policy/.
 Read it at least once per semester, to remind yourself the details.
 Relating to this course:
+* Don't pretend someone else's work is your own. Don't pretend you did something you didn't.
 * Using code snippets found online is a common way to program, but in an academic setting especially it is important that you add a comment where you got it from.
 * Collaboration with classmates is usually encouraged in this course, but unauthorized collaboration when explicitly asked not to is cheating. In any case: when helping others, try not to just give them your code, but help them figure it out themselves. They will learn better, and you will also learn from it.
 
 ## Student Accommodations
-Northeastern University and the Disability Resource Center (DRC) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university.  
- 
-For more information, visit http://www.northeastern.edu/drc/getting-started-with-the-drc/.
+Northeastern University and the Disability Resource Center (DRC) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university.
+For more information, visit https://drc.sites.northeastern.edu/registered-students/.
 
 ## Diversity and Inclusion
 Northeastern University is committed to equal opportunity, affirmative action, diversity, and social justice, while building a climate of inclusion on and beyond campus.  In our classroom, we'll work to cultivate an inclusive environment that denounces discrimination through innovation, collaboration and an awareness of global perspectives on social justice.
-Please visit http://www.northeastern.edu/oidi/ for complete information on Diversity and Inclusion.
+Please visit https://provost.northeastern.edu/odei/ for complete information on Diversity and Inclusion.
+The Chemical Engineering Department's statement on Diversity, Equity, and Inclusion is at https://che.northeastern.edu/community/dei/. 
 
 ## Title IX
-Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance.
+Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff. Please visit https://www.northeastern.edu/titleix for a complete list of reporting options and resources both on- and off-campus.  In case of an emergency, please call 911.
 
-Northeastern’s Title IX Policy prohibits sexual harassment, sexual assault, relationship or domestic violence, and stalking; it applies to the entire community. Please visit www.northeastern.edu/titleix for a complete list of reporting options and resources both on- and off-campus. In case of an emergency, please call 911.
+
