@@ -90,4 +90,5 @@ The Chemical Engineering Department's statement on Diversity, Equity, and Inclus
 ## Title IX
 Title IX of the Education Amendments of 1972 protects individuals from sex or gender-based discrimination, including discrimination based on gender-identity, in educational programs and activities that receive federal financial assistance. Northeastern’s Title IX Policy prohibits Prohibited Offenses, which are defined as sexual harassment, sexual assault, relationship or domestic violence, and stalking. The Title IX Policy applies to the entire community, including male, female, transgender students, faculty and staff. Please visit https://www.northeastern.edu/titleix for a complete list of reporting options and resources both on- and off-campus.  In case of an emergency, please call 911.
 
-
+## Recording of Classes
+Classes may be recorded to enable all students to review material covered in synchronous classes. Please contact me if you have any concerns.
