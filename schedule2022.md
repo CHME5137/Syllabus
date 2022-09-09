@@ -27,10 +27,9 @@
 ## Lecture 19 Tue Nov 15
 ## Lecture 20 Fri Nov 18
 ## Lecture 21 Tue Nov 22
-## Lecture 22 Fri Nov 25
-## Lecture 23 Tue Nov 29
-## Lecture 24 Fri Dec 2
-## Lecture 25 Tue Dec 6
+## Lecture 22 Tue Nov 29
+## Lecture 23 Fri Dec 2
+## Lecture 24 Tue Dec 6
 
 
 ### Homeworks
