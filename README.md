@@ -92,3 +92,9 @@ Title IX of the Education Amendments of 1972 protects individuals from sex or ge
 
 ## Recording of Classes
 Classes may be recorded to enable all students to review material covered in synchronous classes. Please contact me if you have any concerns.
+
+## Attendance
+Please stay home if you think you might have a communicable illness - we will accommadate your absence.
+With that said, please come to class whenever you can - we all benefit from having you here when healthy - and please let me know as soon as possible if you're going to miss a class.
+The Zoom meetings on the class calendar are there to facilitate making recordings; they are not intended to encourage remote participation or to excuse truancy.
+

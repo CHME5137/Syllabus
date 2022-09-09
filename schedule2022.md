@@ -11,7 +11,7 @@
 Project planning,
 
 ## Homework 1
-Book Reviews
+Book Reviews?
 
 ## Lecture 3 Fri Sep 16
 ## Lecture 4 Tues Sep 20
