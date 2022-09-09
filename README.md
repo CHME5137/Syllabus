@@ -98,3 +98,16 @@ Please stay home if you think you might have a communicable illness - we will ac
 With that said, please come to class whenever you can - we all benefit from having you here when healthy - and please let me know as soon as possible if you're going to miss a class.
 The Zoom meetings on the class calendar are there to facilitate making recordings; they are not intended to encourage remote participation or to excuse truancy.
 
+## Course Outcomes
+These outcomes are listed on the official syllabus, and include mappings to ABET Student Outcomes (SO’s 1-7).
+* Use Python programming language to create simple scripts with conditionals, loops, operations, and functions. (SO 1)
+* Learn how to use scientific Python libraries such as NumPy and SciPy to, for example, solve nonlinear equations, solve differential equations, optimize functions, and regress parameters. (SO 7)
+* Implement a Kinetic Monte Carlo simulation. (SO 1)
+* Use the Linux command prompt to navigate a file system, perform simple file operations, and launch programs.
+* Use the Git version control system to initialize, stage, commit, push, pull, branch, and merge.
+* Use the LaTeX document preparation system to write publication-quality technical reports. (SO3)
+* Create a computational model of any physical, chemical, or biological system. (SO1)
+* Perform global sensitivity analysis on a model to learn the significance of parameters and model assumptions. (SO 6, 4)
+
+I aim to be responsive to the interests of the current cohort.
+We may get ambitious and add some goals as we go.
