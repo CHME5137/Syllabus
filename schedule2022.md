@@ -6,6 +6,10 @@
 * Why modeling?
   - discovery (choose better experiments [sensitivity and uncertainty analyses]; do the impossible [ask "what if?"])
   - design (predict and simulate)
+* Project scope, example: Isothermal Titration Calorimetry
+
+## Homework 1 Fri Sep 9
+* Start of semester survey.
 
 ## Lecture 2 Tues Sep 13
 Project planning,
