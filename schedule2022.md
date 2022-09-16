@@ -26,6 +26,19 @@
 * Book Reviews.
 
 ## Lecture 3 Fri Sep 16
+* Book reviews
+* Python
+  - Types (containers, iterables)
+  - Loops (`for x in y:`), control flow (`if z:`)
+  - Functions. Docstrings
+  - Factorial
+* ODE solving
+  - Differential equations, Simple Euler method to solve
+  - Numerical Convergence. How and why and when.
+
+## Homework 3
+* ODE solver
+
 ## Lecture 4 Tues Sep 20
 ## Lecture 5 Fri Sep 23
 ## Lecture 6 Tues Sep 27
