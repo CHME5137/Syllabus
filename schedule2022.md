@@ -12,10 +12,18 @@
 * Start of semester survey.
 
 ## Lecture 2 Tues Sep 13
-Project planning,
+* Python books
+* Project planning
+  - inputs, black box, outputs
+* Python
+  - types (int, float, str)
+  - libraries
+  - Anaconda
+  - Jupyter lab
+* Go to research Expo.
 
-## Homework 1
-Book Reviews?
+## Homework 2. Fri Sep 16
+* Book Reviews.
 
 ## Lecture 3 Fri Sep 16
 ## Lecture 4 Tues Sep 20
