@@ -32,31 +32,76 @@
   - Loops (`for x in y:`), control flow (`if z:`)
   - Functions. Docstrings
   - Factorial
+
+## Homework 3
+* Python learning
+
+## Lecture 4 Tues Sep 20
 * ODE solving
   - Differential equations, Simple Euler method to solve
   - Numerical Convergence. How and why and when.
 
-## Homework 3
-* ODE solver
+## Homework 4
+* ODE solver. Runge-Kutta 4 and solve_ivp
 
-## Lecture 4 Tues Sep 20
 ## Lecture 5 Fri Sep 23
+* Project planning
+  - Making a 1-slide summary
+  - Discussing the RK4 homework
+
+## Homework 5
+* Project planning and literature search.
+
+## Homework 6
+* Python learning
+
 ## Lecture 6 Tues Sep 27
+* Homework discussion
+* Sharing what we learned in Python
+* Data slicing in numpy arrays
+* Kinetic Monte Carlo (rejection free algorithm)
+
+## Homework 7
+* Read the Git Parable
 ## Lecture 7 Fri Sep 30
+* Git
+
+## Homework 8
+* Kinetic Monte Carlo
+  - this was a big one
 ## Lecture 8 Tues Oct 4
+* Kinetic Monte Carlo - how to do the homework.
+
+## Homework 9
+* Git and Github
+
 ## Lecture 9 Fri Oct 7
+* Git homework
+* Merging rebasing branches, pushing and pulling
+* Reviewing pull requests
+* Review of project summaries
+
+## Homework 10
+* Python practice, and recap
 ## Lecture 10 Tues Oct 11
+
 ## Lecture 11 Fri Oct 14
+
 ## Lecture 12 Tues Oct 18
+
 ## Lecture 13 Fri Oct 21
+
 ## Lecture 14 Tues Oct 25
+
 ## Lecture 15 Fri Oct 28
+
 ## Lecture 16 Tues Nov 1
+
 ## Lecture 17 Fri Nov 4
 ## Lecture 18 Tue Nov 8
 
 ### Fri Nov 11 - Veterans' Day
-
+No class
 ## Lecture 19 Tue Nov 15
 Prof West almost certainly at AIChE Conference
 
@@ -68,31 +113,33 @@ Prof West maybe still at AIChE Conference
 ### Fri 25 Nov - Thanksgiving Break
 
 ## Lecture 22 Tue Nov 29
+
 ## Lecture 23 Fri Dec 2
+
 ## Lecture 24 Tue Dec 6
 
 
 ### Homeworks
 - [ ] Bash
-- [ ] Book reviews
+- [x] Book reviews
 - [ ] Rabbits and foxes diffusing
 - [ ] CodingBat Python practice
-- [ ] Runge-Kutta RK4 and convergence
-- [ ] Flesh out a project
+- [x] Runge-Kutta RK4 and convergence
+- [x] Flesh out a project
 - [ ] Improve a project outline
-- [ ] Kinetic Monte Carlo
+- [x] Kinetic Monte Carlo
 - [ ] Regression
-- [ ] Git and github
+- [x] Git and github
 
 ### Topics
-- [ ] Python
+- [x] Python
 - [ ] CodingBat
-- [ ] Convergence
-- [ ] ODEs
-  - [ ] Simple Euler
-  - [ ] RK4
-  - [ ] SciPy
-- [ ] Kinetic Monte Carlo
+- [x] Convergence
+- [x] ODEs
+  - [x] Simple Euler
+  - [x] RK4
+  - [x] SciPy
+- [x] Kinetic Monte Carlo
   - [ ] Code optimization
 - [ ] PDEs
 - [ ] Debugging
