@@ -83,10 +83,17 @@
 
 ## Homework 10
 * Python practice, and recap
+
 ## Lecture 10 Tues Oct 11
+* Linear regression (`scipy.stats.linregress`)
+* Nonlinear regression (`scipy.optimize.curve_fit`)
+* Polynomial regression
+* Regression with uncertain x values (eg. `scipy.odr`)
 
 ## Lecture 11 Fri Oct 14
 
+## Homework 12
+* Regression
 ## Lecture 12 Tues Oct 18
 
 ## Lecture 13 Fri Oct 21
@@ -128,7 +135,7 @@ Prof West maybe still at AIChE Conference
 - [x] Flesh out a project
 - [ ] Improve a project outline
 - [x] Kinetic Monte Carlo
-- [ ] Regression
+- [x] Regression
 - [x] Git and github
 
 ### Topics
@@ -143,7 +150,7 @@ Prof West maybe still at AIChE Conference
   - [ ] Code optimization
 - [ ] PDEs
 - [ ] Debugging
-- [ ] Regression
+- [x] Regression
 - [ ] Bayesian Parameter Estimation
 - [ ] Bash
 - [ ] Discovery cluster
