@@ -1,4 +1,4 @@
-# Topics 
+# Topics and dates for 2022
 
 ## Lecture 1 Fri Sep 9
 * Introduction
@@ -95,39 +95,54 @@
 ## Homework 12
 * Regression
 ## Lecture 12 Tues Oct 18
+* Regression homework discussion
 
+## Homework 13
+* Read about debugging
+* Fix up regression homeork
 ## Lecture 13 Fri Oct 21
+* Debugging
 
 ## Lecture 14 Tues Oct 25
+* Sensitivity
 
+## Homework 15
+* PDEs
 ## Lecture 15 Fri Oct 28
-
+* Submarine kite turbine heat transfer
 ## Lecture 16 Tues Nov 1
+* LaTeX
 
 ## Lecture 17 Fri Nov 4
+* Submarine sensitivity (in groups)
 ## Lecture 18 Tue Nov 8
 
 ### Fri Nov 11 - Veterans' Day
-No class
+No class - Veteran's Day
 ## Lecture 19 Tue Nov 15
-Prof West almost certainly at AIChE Conference
+Prof West at AIChE Conference
+Work on your projects.
 
 ## Lecture 20 Fri Nov 18
-Prof West maybe still at AIChE Conference
+Prof West still at AIChE Conference
+Work on your projects.
 
 ## Lecture 21 Tue Nov 22
+Projects, Bash, Linux, Discovery, general discussion
 
 ### Fri 25 Nov - Thanksgiving Break
 
 ## Lecture 22 Tue Nov 29
-
+Bayesian Parameter Estimation
 ## Lecture 23 Fri Dec 2
-
+Population Balances
 ## Lecture 24 Tue Dec 6
-
+Final Project Presentations
 
 ### Homeworks
-- [ ] Bash
+This is a list of possible homework assignments that I might pick from.
+
+- [x] Bash
 - [x] Book reviews
 - [ ] Rabbits and foxes diffusing
 - [ ] CodingBat Python practice
@@ -137,8 +152,13 @@ Prof West maybe still at AIChE Conference
 - [x] Kinetic Monte Carlo
 - [x] Regression
 - [x] Git and github
+- [ ] Register for discovery
+- [ ] Sensitivity
+- [ ] 
 
 ### Topics
+This is not a manifesto or contract, but a reminder list of things it would be cool to cover. i.e. it's too long and we won't cover them all.
+
 - [x] Python
 - [ ] CodingBat
 - [x] Convergence
@@ -148,15 +168,15 @@ Prof West maybe still at AIChE Conference
   - [x] SciPy
 - [x] Kinetic Monte Carlo
   - [ ] Code optimization
-- [ ] PDEs
-- [ ] Debugging
+- [x] PDEs
+- [x] Debugging
 - [x] Regression
-- [ ] Bayesian Parameter Estimation
-- [ ] Bash
-- [ ] Discovery cluster
-- [ ] LaTeX
-- [ ] Population Balance Modeling
-- [ ] Sensitivity Analysis
+- [x] Bayesian Parameter Estimation
+- [x] Bash
+- [x] Discovery cluster
+- [x] LaTeX
+- [x] Population Balance Modeling
+- [x] Sensitivity Analysis
 - [ ] Cantera
 - [ ] Pandas (polyethylene?)
 - [ ] Machine Learning
