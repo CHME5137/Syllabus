@@ -2,7 +2,7 @@
 ## CHME 5137 – Computational Modeling in Chemical Engineering
 Instructor: 	Prof. Richard H. West   r.west@northeastern.edu
 
-Fall 2022: 	Tuesday and Friday, 9:50 – 11:30pm,  Snell Library 049
+Fall 2023: 	Tuesday and Friday, 9:50 – 11:30pm,  Ryder Hall Room 157
 
 ## Short Catalog Description:
 Building on chemical engineering fundamentals, introduces computer programming to allow simulation of physical, chemical, and biological systems. Covers numerical experiments (eg. Monte Carlo, global sensitivity analysis) to learn the significance of parameters and model assumptions. Students work on a research or design project throughout the course.
@@ -30,6 +30,18 @@ Topics include:
 *	Debugging
 
 ## Course textbook:
+
+*Recommended (not required)*
+Modeling and Simulation in Python
+Author: Allen B. Downey
+Publisher:  [No Starch Press](https://nostarch.com/modeling-and-simulation-python), May 2023
+Paperback:  [$39.99 from the publisher](https://nostarch.com/modeling-and-simulation-python) or [$25.49 on Amazon](https://amzn.to/3R4LaJP)
+Publisher: Green Tea Press
+eBook: [**FREE!** and open-source](https://greenteapress.com/wp/modsimpy/) (CC BY-NC-SA 4.0)
+https://allendowney.github.io/ModSimPy/
+
+
+*Another good choice (not required)*
 A Student’s Guide to Python for Physical Modeling: Second Edition
 Authors: Jesse M. Kinder & Philip Nelson
 Publisher: Princeton University Press, July 2015
@@ -77,6 +89,7 @@ Relating to this course:
 * Don't pretend someone else's work is your own. Don't pretend you did something you didn't.
 * Using code snippets found online is a common way to program, but in an academic setting especially it is important that you add a comment where you got it from.
 * Collaboration with classmates is usually encouraged in this course, but unauthorized collaboration when explicitly asked not to is cheating. In any case: when helping others, try not to just give them your code, but help them figure it out themselves. They will learn better, and you will also learn from it.
+* We will be exploring and discussing how and when to use AI assistants like ChatGPT to help you write code. You must acknowldege when and how you use these tools, and don't use them if/when asked not to.
 
 ## Student Accommodations
 Northeastern University and the Disability Resource Center (DRC) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university.
