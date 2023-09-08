@@ -1,152 +1,79 @@
 # Topics and dates for 2023
 
-
-## Lecture 1 Fri Sep 8
+## Lecture 1	-	Friday 8 September
 * Introduction
 * What we hope to learn, what we expect to cover
+* Meeting each other
 * Why modeling?
   - discovery (choose better experiments [sensitivity and uncertainty analyses]; do the impossible [ask "what if?"])
   - design (predict and simulate)
 * Project scope
 
-## Homework 1 Fri Sep 8
+## Homework 1	-	Friday 8 September
 * Start of semester survey.
+* Office hours poll
 
 
+## Lecture 2	-	Tuesday 12 September
+
+## Homework 2	-	Tuesday 12 September
+* Install Python
+* Register at GitHub
+
+## Lecture 3	-	Friday 15 September
+
+## Lecture 4	-	Tuesday 19 September
+* Attend Research showcase
+
+## Lecture 5	-	Friday 22 September
+
+## Lecture 6	-	Tuesday 26 September
+
+## Lecture 7	-	Friday 29 September
+
+## Lecture 8	-	Tuesday 3 October
+
+## Lecture 9	-	Friday 6 October
+
+## Lecture 10	-	Tuesday 10 October
+
+## Lecture 11	-	Friday 13 October
+
+## Lecture 12	-	Tuesday 17 October
+
+## Lecture 13	-	Friday 20 October
+
+## Lecture 14	-	Tuesday 24 October
+
+## Lecture 15	-	Friday 27 October
+
+## Lecture 16	-	Tuesday 31 October
+
+## Lecture 17	-	Friday 3 November
+
+## Lecture 18	-	Tuesday 7 November
+
+## Lecture 19	-	Friday 10 November
+
+## Lecture 20	-	Tuesday 14 November
+
+## Lecture 21	-	Friday 17 November
+
+## Lecture 22	-	Tuesday 21 November
+
+## Lecture 23	-	Friday 24 November
+
+## Lecture 24	-	Tuesday 28 November
+
+## Lecture 25	-	Friday 1 December
+
+## Lecture 26	-	Tuesday 5 December
 ----
 
-# Topics and dates for 2022
-Perhaps a useful reference, but we'll likely change things up.
-
-## Lecture 2 Tues Sep 13
-* Python books
-* Project planning
-  - inputs, black box, outputs
-* Python
-  - types (int, float, str)
-  - libraries
-  - Anaconda
-  - Jupyter lab
-* Go to research Expo.
-
-## Homework 2. Fri Sep 16
-* Book Reviews.
-
-## Lecture 3 Fri Sep 16
-* Book reviews
-* Python
-  - Types (containers, iterables)
-  - Loops (`for x in y:`), control flow (`if z:`)
-  - Functions. Docstrings
-  - Factorial
-
-## Homework 3
-* Python learning
-
-## Lecture 4 Tues Sep 20
-* ODE solving
-  - Differential equations, Simple Euler method to solve
-  - Numerical Convergence. How and why and when.
-
-## Homework 4
-* ODE solver. Runge-Kutta 4 and solve_ivp
-
-## Lecture 5 Fri Sep 23
-* Project planning
-  - Making a 1-slide summary
-  - Discussing the RK4 homework
-
-## Homework 5
-* Project planning and literature search.
-
-## Homework 6
-* Python learning
-
-## Lecture 6 Tues Sep 27
-* Homework discussion
-* Sharing what we learned in Python
-* Data slicing in numpy arrays
-* Kinetic Monte Carlo (rejection free algorithm)
-
-## Homework 7
-* Read the Git Parable
-## Lecture 7 Fri Sep 30
-* Git
-
-## Homework 8
-* Kinetic Monte Carlo
-  - this was a big one
-## Lecture 8 Tues Oct 4
-* Kinetic Monte Carlo - how to do the homework.
-
-## Homework 9
-* Git and Github
-
-## Lecture 9 Fri Oct 7
-* Git homework
-* Merging rebasing branches, pushing and pulling
-* Reviewing pull requests
-* Review of project summaries
-
-## Homework 10
-* Python practice, and recap
-
-## Lecture 10 Tues Oct 11
-* Linear regression (`scipy.stats.linregress`)
-* Nonlinear regression (`scipy.optimize.curve_fit`)
-* Polynomial regression
-* Regression with uncertain x values (eg. `scipy.odr`)
-
-## Lecture 11 Fri Oct 14
-* BVPs and PDEs
-## Homework 12
-* Regression
-## Lecture 12 Tues Oct 18
-* Regression homework discussion
-
-## Homework 13
-* Read about debugging
-* Fix up regression homeork
-## Lecture 13 Fri Oct 21
-* Debugging
-
-## Lecture 14 Tues Oct 25
-* Sensitivity
-
-## Homework 15
-* PDEs
-## Lecture 15 Fri Oct 28
-* Submarine kite turbine heat transfer
-## Lecture 16 Tues Nov 1
-* LaTeX
-
-## Lecture 17 Fri Nov 4
-* Submarine sensitivity (in groups)
-## Lecture 18 Tue Nov 8
-
-### Fri Nov 11 - Veterans' Day
-No class - Veteran's Day
-## Lecture 19 Tue Nov 15
-Prof West at AIChE Conference
-Work on your projects.
-
-## Lecture 20 Fri Nov 18
-Prof West still at AIChE Conference
-Work on your projects.
-
-## Lecture 21 Tue Nov 22
-Projects, Bash, Linux, Discovery, general discussion
-
-### Fri 25 Nov - Thanksgiving Break
-
-## Lecture 22 Tue Nov 29
-Bayesian Parameter Estimation
-## Lecture 23 Fri Dec 2
-Population Balances
-## Lecture 24 Tue Dec 6
-Final Project Presentations
-
 # Checklists
+
+The 2022 schedule is at  https://github.com/CHME5137/Syllabus/blob/main/schedule2022.md
+
 
 ### Homeworks
 This is a list of possible homework assignments that I might pick from.
