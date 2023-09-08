@@ -1,5 +1,9 @@
 # Topics and dates for 2023
 
+## Homework 1	-	Friday 8 September
+* Start of semester survey
+* Office hours poll
+
 ## Lecture 1	-	Friday 8 September
 * Introduction
 * What we hope to learn, what we expect to cover
@@ -9,21 +13,17 @@
   - design (predict and simulate)
 * Project scope
 
-## Homework 1	-	Friday 8 September
-* Start of semester survey.
-* Office hours poll
-
+## Homework 2	-	Tuesday 12 September
+* Install Python (conda)
+* Register at GitHub
 
 ## Lecture 2	-	Tuesday 12 September
 
-## Homework 2	-	Tuesday 12 September
-* Install Python
-* Register at GitHub
 
 ## Lecture 3	-	Friday 15 September
 
 ## Lecture 4	-	Tuesday 19 September
-* Attend Research showcase
+* at some point, Attend Research showcase
 
 ## Lecture 5	-	Friday 22 September
 
