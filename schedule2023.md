@@ -19,12 +19,49 @@
 
 ## Lecture 2	-	Tuesday 12 September
 
+* Python
+  - 3.11 faster (10-60% than 3.10), better error messages. [upgrade](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html)
+  - 
+* Github
+* Python books
+  - https://www.w3schools.com/python/default.asp
+  - https://www.coursera.org
+  - https://www.freecodecamp.org
+  - https://automatetheboringstuff.com
+  - https://www.udemy.com/
+  
+* Project planning
+  - inputs, black box, outputs
+* Python
+  - notebook
+  - types (int, float, str)
+  - libraries
+  - Anaconda
+  - Jupyter notebook
+  - Jupyter lab
+  - VSCode
 
 ## Lecture 3	-	Friday 15 September
+The projector wasn't working which was annoying. But there is a zoom recording.
+* Python
+  - Numpy. Arrays
+  - Loops
+  - Functions
+* ODE solving
+  - Differential equations, Simple Euler method to solve
+  - Numerical Convergence. How and why and when.
 
+## Homework 3 -	Tuesday 19 September
+* Some book reviews
+* Learn some Python
 ## Lecture 4	-	Tuesday 19 September
-* at some point, Attend Research showcase
+* Some discussion of book reviews
+* Project scope
+* Attend Research showcase
 
+## Homework 4	-	Friday 22 September
+* ODE solving - convergence.
+* Finish book reviews.
 ## Lecture 5	-	Friday 22 September
 
 ## Lecture 6	-	Tuesday 26 September
