@@ -92,6 +92,7 @@
 
 ## Lecture 11 Fri Oct 14
 * BVPs and PDEs
+
 ## Homework 12
 * Regression
 ## Lecture 12 Tues Oct 18
