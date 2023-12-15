@@ -134,17 +134,23 @@ Assignment: read the git parable
 ## Lecture 20	-	Tuesday 14 November
 
 ## Lecture 21	-	Friday 17 November
+* Git
 
 ## Lecture 22	-	Tuesday 21 November
+* Bash
 
 ## FALL BREAK	-	Friday 24 November
 
 
 ## Lecture 23	-	Tuesday 28 November
+* BPE
 
 ## Lecture 24	-	Friday 1 December
+* Projects
 
 ## Lecture 25	-	Tuesday 5 December
+* Projects
+
 ----
 
 # Checklists
@@ -163,8 +169,8 @@ This is a list of possible homework assignments that I might pick from.
 - [ ] Flesh out a project
 - [ ] Improve a project outline
 - [x] Kinetic Monte Carlo
-- [ ] Regression
-- [ ] Git and github
+- [x] Regression
+- [x] Git and github
 - [ ] Register for discovery
 - [ ] Sensitivity
 - [ ] 
@@ -184,10 +190,10 @@ This is not a manifesto or contract, but a reminder list of things it would be c
 - [x] PDEs
 - [x] Debugging
 - [x] Regression
-- [ ] Bayesian Parameter Estimation
-- [ ] Bash
-- [ ] Discovery cluster
-- [ ] LaTeX
+- [x] Bayesian Parameter Estimation
+- [x] Bash
+- [.] Discovery cluster
+- [x] LaTeX
 - [ ] Population Balance Modeling
 - [x] Sensitivity Analysis
 - [ ] Cantera
