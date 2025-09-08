@@ -1,8 +1,11 @@
 # Syllabus
 ## CHME 5137 – Computational Modeling in Chemical Engineering
 Instructor: 	Prof. Richard H. West   r.west@northeastern.edu
+Fall 2025: 	Tuesday and Friday, 9:50 – 11:30am,  Ryder Hall Room 233
 
-Fall 2023: 	Tuesday and Friday, 9:50 – 11:30pm,  Ryder Hall Room 157
+Schedule: https://github.com/CHME5137/Syllabus/blob/main/schedule2025.md
+
+
 
 ## Short Catalog Description:
 Building on chemical engineering fundamentals, introduces computer programming to allow simulation of physical, chemical, and biological systems. Covers numerical experiments (eg. Monte Carlo, global sensitivity analysis) to learn the significance of parameters and model assumptions. Students work on a research or design project throughout the course.
