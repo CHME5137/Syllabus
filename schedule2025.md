@@ -17,7 +17,24 @@ Register for and/or install the following.
 * [Explorer cluster account](https://rc.northeastern.edu/support/training/) ([Connecting instructions](https://rc-docs.northeastern.edu/en/explorer-main/connectingtocluster/index.html))
 
 ## Lecture 2 - Tuesday September 9
+
+Simple Python.
+* Python basics
+  - types (int, float, str)
+  - lists, arrays
+  - loops
+  - functions
+* Jupyter notebook
+* VSCode
+* CodingBat Python practice
+
+## Assignment 1. Python book reviews.
+Partially due Friday September 12.
+Finally due Tuesday September 16.
+
 ## Lecture 3 - Friday September 12
+
+
 ## Lecture 4 - Tuesday September 16
 ## Lecture 5 - Friday September 19
 ## Lecture 6 - Tuesday September 23
