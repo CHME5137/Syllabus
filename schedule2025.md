@@ -33,9 +33,23 @@ Partially due Friday September 12.
 Finally due Tuesday September 16.
 
 ## Lecture 3 - Friday September 12
-
+* Differential equations
+  - concept
+  - discretization
+  - Simple Euler method
+* Convergence
 
 ## Lecture 4 - Tuesday September 16
+* Book Reviews
+* 2-Step Adams Bashforth
+  - https://en.wikipedia.org/wiki/Linear_multistep_method#Two-step_Adams–Bashforth
+* Convergence
+  - order of convergence
+  - required accuracy
+
+## Assignment 2.
+Implement 2-step Adams Bashforth in Python
+
 ## Lecture 5 - Friday September 19
 ## Lecture 6 - Tuesday September 23
 ## Lecture 7 - Friday September 26
