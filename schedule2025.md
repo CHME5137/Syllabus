@@ -51,6 +51,15 @@ Finally due Tuesday September 16.
 Implement 2-step Adams Bashforth in Python
 
 ## Lecture 5 - Friday September 19
+* Bash
+  - https://www.w3schools.com/bash/index.php
+* Project scope and planning
+  - inputs, black box, outputs
+
+## Assignment 3.
+Read the git parable.
+
+
 ## Lecture 6 - Tuesday September 23
 ## Lecture 7 - Friday September 26
 ## Lecture 8 - Tuesday September 30
