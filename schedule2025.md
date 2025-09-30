@@ -81,7 +81,13 @@ https://learngitbranching.js.org/
 ## Lecture 9 - Friday October 3
 
 ## Lecture 10 - Tuesday October 7
+
+## Assignment
+Read assigned chapter of Debugging book
+
 ## Lecture 11 - Friday October 10
+* Debugging
+
 ## Lecture 12 - Tuesday October 14
 ## Lecture 13 - Friday October 17
 ## Lecture 14 - Tuesday October 21
