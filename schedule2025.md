@@ -57,13 +57,29 @@ Implement 2-step Adams Bashforth in Python
   - inputs, black box, outputs
 
 ## Assignment 3.
-Read the git parable.
-
+Read the git parable, take some notes.
 
 ## Lecture 6 - Tuesday September 23
+* Git
+  - Parable and discussion
+  - Some demo
+
+## Assignment 4.
+Make a git commit, and pull request, https://github.com/CHME5137/github-assignment
+
 ## Lecture 7 - Friday September 26
+
+* More GitHub.
+* Project planning - slide summaries.
+
 ## Lecture 8 - Tuesday September 30
+
+## Assignment
+https://learngitbranching.js.org/
+
+
 ## Lecture 9 - Friday October 3
+
 ## Lecture 10 - Tuesday October 7
 ## Lecture 11 - Friday October 10
 ## Lecture 12 - Tuesday October 14
