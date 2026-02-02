@@ -74,13 +74,17 @@ Make a git commit, and pull request, https://github.com/CHME5137/github-assignme
 
 ## Lecture 8 - Tuesday September 30
 
+* More GitHub
+* Differential Equations, using SciPy's solve_ivp
+
 ## Assignment
 https://learngitbranching.js.org/
-
 
 ## Lecture 9 - Friday October 3
 
 ## Lecture 10 - Tuesday October 7
+* Kinetic Monte Carlo
+  - how the rejection free algorithm works
 
 ## Assignment
 Read assigned chapter of Debugging book
@@ -89,23 +93,83 @@ Read assigned chapter of Debugging book
 * Debugging
 
 ## Lecture 12 - Tuesday October 14
+* Probability
+* Bayes' theorem
+* Parameter estimation
+* Regression
+
 ## Lecture 13 - Friday October 17
+
+* Regression
+  - Linear regression (`scipy.stats.linregress`)
+  - Nonlinear regression (`scipy.optimize.curve_fit`)
+  - Polynomial regression
+  - Regression with uncertain x values (eg. `scipy.odr`)
+
 ## Lecture 14 - Tuesday October 21
+* PDEs and BVPs
+
 ## Lecture 15 - Friday October 24
+* Jupytext
+* Sensitivity analysis
+
 ## Lecture 16 - Tuesday October 28
+* Submarine example
+   - with sensitivity analysis
+* Oxygen pipe combustion example
+   - with search for oxidation kinetics
+
 ## Lecture 17 - Friday October 31
+* Project Proposals
+
 ## Lecture 18 - Tuesday November 4
+Prof West at AIChE Conference.
+Work on project proposals.
+
 ## Lecture 19 - Friday November 7
+* LaTeX
+
 ## Veterans' Day - Tuesday November 11
+No class.
+
 ## Lecture 20 - Friday November 14
+
+* Cantera.
+
 ## Lecture 21 - Tuesday November 18
+
+* Project selections.
+
 ## Lecture 22 - Friday November 21
+
+* Work on projects. With help.
+
 ## Lecture 23 - Tuesday November 25
+
+* Population Balance Models.
+
 ## Fall Break - Friday November 28
-## Lecture 25 - Tuesday December 2
-## Lecture 26 - Friday December 5
-## Lecture 27 - Tuesday December 9
-## Lecture 28 - Friday December 12
+
+* Nothing (Fall Break)
+
+## Lecture -- - Tuesday December 2
+
+* No in class lecture. Work on projects.
+
+## Lecture 24 - Friday December 5
+
+* Machine Learning
+
+## Lecture 25 - Tuesday December 9
+
+* Presentations.
+
+### Final Project Reports due December 11th
+
+## Lecture 26 - Friday December 12
+
+* 2 last Presentations
+* Bayesian Parameter Estimation
 
 
 
@@ -113,15 +177,15 @@ Read assigned chapter of Debugging book
 This is a list of possible homework assignments that we might pick from.
 
 - [ ] Bash
-- [ ] Book reviews
+- [x] Book reviews
 - [ ] Rabbits and foxes diffusing
-- [ ] CodingBat Python practice
+- [x] CodingBat Python practice
 - [ ] Runge-Kutta RK4 and convergence
 - [ ] Flesh out a project
 - [ ] Improve a project outline
 - [ ] Kinetic Monte Carlo
 - [ ] Regression
-- [ ] Git and github
+- [x] Git and github
 - [ ] Explorer
 - [ ] Sensitivity
 - [ ] LaTeX
@@ -129,13 +193,13 @@ This is a list of possible homework assignments that we might pick from.
 ### Topics
 This is not a manifesto or contract, but a reminder list of things it would be cool to cover. i.e. it's too long and we won't cover them all.
 
-- [ ] Python
-- [ ] CodingBat
-- [ ] Convergence
+- [x] Python
+- [x] CodingBat
+- [x] Convergence
 - [ ] ODEs
-  - [ ] Simple Euler
+  - [x] Simple Euler
   - [ ] RK4
-  - [ ] SciPy
+  - [x] SciPy
 - [ ] Kinetic Monte Carlo
   - [ ] Code optimization
 - [ ] PDEs
@@ -152,3 +216,8 @@ This is not a manifesto or contract, but a reminder list of things it would be c
 - [ ] Machine Learning
 - [ ] VSCode
 - [ ] Programming with GPT and LLMs
+
+## Other resources
+
+- Co-Pilot
+  - https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming/tree/main/Getting-Started-with-GitHub-Copilot
