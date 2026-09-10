@@ -34,38 +34,45 @@ Topics include:
 
 ## Course textbook:
 
+No book is required. Prices below are publisher list prices as of September 2026;
+they drift, and second-hand copies are usually much cheaper.
+
 **Recommended (not required):**
 Modeling and Simulation in Python
 Author: Allen B. Downey
-Paperback: [No Starch Press](https://nostarch.com/modeling-and-simulation-python), May 2023 (also [on Amazon](https://amzn.to/3R4LaJP))
-eBook: Green Tea Press — [**FREE!** and open-source](https://greenteapress.com/wp/modsimpy/) (CC BY-NC-SA 4.0)
+Publisher: [No Starch Press](https://nostarch.com/modeling-and-simulation-python), May 2023
+280 pages
+Print, which includes the ebook: $44.99 (also [on Amazon](https://amzn.to/3R4LaJP))
+Ebook alone (PDF, Mobi, ePub): $35.99
+But you don't need to buy it: the whole book is [**FREE!** and open-source](https://greenteapress.com/wp/modsimpy/)
+from Green Tea Press (CC BY-NC-SA 4.0)
 https://allendowney.github.io/ModSimPy/
 
 
 **Another good choice (not required):**
-A Student’s Guide to Python for Physical Modeling: Second Edition
+[A Student’s Guide to Python for Physical Modeling: Second Edition](https://press.princeton.edu/books/paperback/9780691223650/a-students-guide-to-python-for-physical-modeling)
 Authors: Jesse M. Kinder & Philip Nelson
-Publisher: Princeton University Press, July 2015
-Paperback: $24.95
-eBook available (Kindle: $14.72)
-168 pages
+Publisher: Princeton University Press, August 2021
+Paperback: $36.00
+eBook (EPUB or PDF): $36.00
+240 pages
 http://physicalmodelingwithpython.blogspot.com
 
 ### Other books that may be of interest:
-Mathematical Modeling in Chemical Engineering
+[Mathematical Modeling in Chemical Engineering](https://www.cambridge.org/9781107049697)
 Author: Anders Rasmuson, Bengt Andersson, Louise Olsson, Ronnie Andersson
 Publisher: Cambridge University Press, May 2014
-Hard cover: $69.99
-eBook available (Kindle $56.00)
+Hard cover: about $75 (see the publisher's page for the current price)
+eBook available
 192 pages
 
-Effective Computation in Physics
+[Effective Computation in Physics](https://www.oreilly.com/library/view/effective-computation-in/9781491901564/)
 Field guide to research with Python.
 Authors: Anthony Scopatz, Kathryn D. Huff
-Publisher: O’Reilly Media, July 2015
-Paperback: $49.99
-eBook available (Kindle $18.35)
-552 pages
+Publisher: O’Reilly Media, June 2015
+550 pages
+O’Reilly no longer sells this in print themselves — it is part of the O’Reilly
+online subscription, and print copies are about $60 from other sellers.
 http://physics.codes
 
 ### Other teaching material:
