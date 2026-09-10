@@ -2,6 +2,14 @@
 
 Tuesdays and Fridays, 9:50 – 11:30am, Behrakis Room 307.
 
+> **This schedule is tentative and will change.**
+> Topics past the next week or two are a plan, not a promise: what we cover
+> and when depends on how fast we go, what you're interested in, and how the
+> projects develop. Expect topics to move, split, merge, or get dropped. The
+> dates and the no-class days are fixed; everything attached to them is not.
+> This page is the live version — check it rather than a copy you downloaded,
+> and see the commit history if you want to know what moved.
+
 Fall 2026 term runs Wednesday September 9 to Sunday December 13.
 Neither Indigenous Peoples Day (Monday October 12) nor Veterans Day
 (Wednesday November 11) falls on a class day this year, so the only
@@ -180,6 +188,7 @@ runs December 14-20.
 
 ### Homeworks
 This is a list of possible homework assignments that we might pick from.
+Nothing here is assigned until it's announced in class.
 
 - [ ] Bash
 - [ ] Book reviews

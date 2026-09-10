@@ -4,6 +4,7 @@ Instructor: 	Prof. Richard H. West   r.west@northeastern.edu
 Fall 2026: 	Tuesday and Friday, 9:50 – 11:30am,  Behrakis Hall Room 307
 
 Schedule: https://github.com/CHME5137/Syllabus/blob/main/schedule2026.md
+The schedule is tentative and will be revised throughout the semester; that page is always the current version.
 
 
 ## Short Catalog Description:
