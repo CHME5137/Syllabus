@@ -1,9 +1,9 @@
 # Syllabus
 ## CHME 5137 – Computational Modeling in Chemical Engineering
 Instructor: 	Prof. Richard H. West   r.west@northeastern.edu
-Fall 2025: 	Tuesday and Friday, 9:50 – 11:30am,  Ryder Hall Room 233
+Fall 2026: 	Tuesday and Friday, 9:50 – 11:30am,  Behrakis Hall Room 307
 
-Schedule: https://github.com/CHME5137/Syllabus/blob/main/schedule2025.md
+Schedule: https://github.com/CHME5137/Syllabus/blob/main/schedule2026.md
 
 
 ## Short Catalog Description:
@@ -36,10 +36,8 @@ Topics include:
 **Recommended (not required):**
 Modeling and Simulation in Python
 Author: Allen B. Downey
-Publisher:  [No Starch Press](https://nostarch.com/modeling-and-simulation-python), May 2023
-Paperback:  [$39.99 from the publisher](https://nostarch.com/modeling-and-simulation-python) or [$25.49 on Amazon](https://amzn.to/3R4LaJP)
-Publisher: Green Tea Press
-eBook: [**FREE!** and open-source](https://greenteapress.com/wp/modsimpy/) (CC BY-NC-SA 4.0)
+Paperback: [No Starch Press](https://nostarch.com/modeling-and-simulation-python), May 2023 (also [on Amazon](https://amzn.to/3R4LaJP))
+eBook: Green Tea Press — [**FREE!** and open-source](https://greenteapress.com/wp/modsimpy/) (CC BY-NC-SA 4.0)
 https://allendowney.github.io/ModSimPy/
 
 
@@ -90,7 +88,7 @@ Relating to this course:
 * Don't pretend someone else's work is your own. Don't pretend you did something you didn't.
 * Using code snippets found online is a common way to program, but in an academic setting especially it is important that you add a comment where you got it from.
 * Collaboration with classmates is usually encouraged in this course, but unauthorized collaboration when explicitly asked not to is cheating. In any case: when helping others, try not to just give them your code, but help them figure it out themselves. They will learn better, and you will also learn from it.
-* We will be exploring and discussing how and when to use AI assistants like ChatGPT to help you write code. You must acknowledge when and how you use these tools, and don't use them if/when asked not to. These are powerful tools, but remember why you're taking the class, and use the tools to maximize your learning, not to short-cut it.
+* We will be exploring and discussing how and when to use AI assistants and coding agents (Claude, ChatGPT, Copilot, and the like) to help you write code. You must acknowledge when and how you use these tools, and don't use them if/when asked not to. These are powerful tools, but remember why you're taking the class, and use the tools to maximize your learning, not to short-cut it.
 
 ## Student Accommodations
 Northeastern University and Disability Access Services (DAS) are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and The Americans With Disabilities Act Amendments Act (ADAAA) to participate fully in the activities of the university. To receive accommodations through DAS, students must provide documentation of a disability that demonstrates a current substantial limitation. Accommodations are approved based on a review of the information that is submitted and reviews are done on a case-by-case basis.
