@@ -219,10 +219,10 @@ No class. (Fall break runs November 25-29; classes resume Monday November 30.)
 * Remaining presentations
 * Bayesian Parameter Estimation
 
-### Final Project Reports due December 15th
+### Final Project Reports due December 10th
 
-Last day of full-semester classes is December 13; the final exam period
-runs December 14-20.
+Due 11:59pm the night before the last lecture. (Last day of full-semester
+classes is December 13; the final exam period runs December 14-20.)
 
 
 ### Homeworks
