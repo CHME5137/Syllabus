@@ -96,6 +96,112 @@ Participation in the Teacher Rating And Course Evaluation (TRACE) survey at the 
 But don't wait until then to give feedback!
 Tell the instructor as soon as you have an idea that might improve the course.
 
+## Use of AI
+
+This is an elective, and the goal is AI **fluency**: by the end of the course you should be able to judge not just *how* to use these tools but *when*, and to evaluate what they hand back.
+Under the Chemical Engineering Department's AI guidance (approved 25 August 2026) elective courses are "permitted as defined in the course" — so what follows is the definition for this course.
+It supplements Northeastern's [Policy 125](https://policies.northeastern.edu/policy125/) and the Provost's [Standards for the Use of Generative AI in Teaching and Learning](https://provost.northeastern.edu/wp-content/uploads/2025/07/Standards-and-Recommendations-for-the-Use-of-Generative-AI-in-Teaching-and-Learning-at-Northeastern-FINAL-07.01.25.pdf).
+Where they conflict, University policy governs.
+
+### The principle
+
+Use AI to *learn* something.
+Never use AI to *skip* learning something and hand in the artifact.
+
+Those two can produce identical-looking submissions — the same working code, the same paragraph — which is why the distinction has to be one you make honestly, for yourself.
+A useful test: tomorrow, without the AI, could you do it again?
+If not, you didn't learn it, and the bill comes due later in this course, in your research, and in every situation your career hands you where nobody is there to prompt.
+
+Sometimes struggling with something unaided is simply the fastest way to learn it.
+Where an assignment restricts AI, that is why.
+It isn't a trust exercise.
+
+### Read the label on each assignment
+
+**The rule that matters is the one on the assignment in front of you, not the one you remember from last week.**
+Every assignment carries one of four labels:
+
+| Label | What it means |
+|---|---|
+| **Prohibited** | Don't use AI on this one. The assignment will say why. |
+| **Permitted** | Allowed, within the scope the assignment states. Say what you used. |
+| **Encouraged** | Use it, and document how. |
+| **Required** | Using AI *is* the assignment. Follow its instructions. |
+
+These vary a lot across the semester, deliberately.
+Some assignments are about learning to use AI well — writing code with it, debugging with it, finding your way around an unfamiliar library.
+Some let you use it as a tutor to understand a method, while still asking you to write the thing yourself.
+Some prohibit it because the struggle is the point.
+Check before you start, and ask me if a label is unclear or seems wrong for what you're trying to do.
+
+Labels for the assignments planned so far are in the [schedule](https://github.com/CHME5137/Syllabus/blob/main/schedule2026.md).
+
+### What I expect from you
+
+* **Say what you did.**
+  Whenever AI use is permitted, encouraged or required, include a short note with your submission: which tool, and what you used it for.
+  A sentence or two usually does it — "Claude wrote the plotting boilerplate, I wrote the integrator", or "I asked ChatGPT to explain what the error message meant".
+  For code you paste in more or less as-is, put the credit in a comment at the point of use, exactly as you would for something off Stack Overflow.
+* **Verify everything.**
+  These tools produce fluent, confident, wrong answers, and they do it most readily at the edges where you are least equipped to notice.
+  You are responsible for what you submit, whether or not a model wrote it.
+* **Verify safety-critical output independently.**
+  Several topics here — combustion, reaction kinetics, anything touching materials handling — are safety-sensitive.
+  Departmental guidance is explicit that AI output in these areas needs independent human verification, not a sanity check.
+  Submitting an AI-generated hazard or safety analysis as your own work is an integrity violation and a genuinely dangerous professional habit.
+* **Don't feed it things that aren't yours to share.**
+  Many of you will bring projects from your research groups.
+  Unpublished results, anything patentable that hasn't been disclosed yet, and data covered by a sponsor or federal award agreement should not go into a commercial AI tool.
+  Pending intellectual property is the highest-stakes case: pasting it into a chatbot can count as prior-art disclosure and can cost your group a patent.
+  If your project touches any of this, check with your advisor first — and tell me if it constrains what you can do for the course, because we can work around it.
+
+### What you can expect from me
+
+* Some course materials, examples and slides are drafted with AI assistance.
+  I read, run and edit everything before you see it, and I am responsible for its accuracy.
+  Where the process is interesting or instructive I would rather show you it than hide it.
+* **The grades I assign are my own.**
+  I do not use AI to produce them, and I do not feed your submitted work to a model to decide what it's worth.
+  Grading open-ended work with generative AI would require AI Review Committee review under Policy 125; I have not sought it, because I don't want to grade that way.
+* **You may opt in to AI feedback on your own drafts.**
+  On some work I will invite you to run your own draft past an AI tool for formative feedback before you hand it in — to catch the obvious things, or to have something argue with you about your assumptions.
+  It is entirely your choice, it happens on your side rather than mine, and taking it up or declining it has no bearing on your grade.
+  If you do use it, mention it in your AI note, and tell me whether the feedback was actually any good.
+  I'm interested in the answer.
+  The data restrictions above still apply: don't put unpublished, sponsor-restricted, or not-yet-disclosed work into a tool to get feedback on it.
+* **I do not use AI detection tools.**
+  They do not work, they generate false positives, and the University does not recommend them.
+  If I have a question about how you produced something, I will ask you to walk me through it — which is usually a good conversation anyway.
+* I will not put your name, your grades, or your submitted work into a tool that isn't approved for it.
+
+### For both of us
+
+* **A chatbot is not office hours.**
+  It cannot see your project, does not know what we covered on Tuesday, and will not notice that you have misunderstood the question rather than the method.
+  Come and talk to me.
+  The offer is real, and it is underused.
+* **Budget the time honestly.**
+  AI is fast at producing something and slow at producing something correct.
+  Debugging code you don't understand, written by a model that also doesn't understand it, is one of the worse ways to spend an evening.
+  Plan for verification, not just generation.
+* **Notice what it costs.**
+  Training and running these models consumes real energy and water, and the infrastructure doesn't get sited evenly.
+  "Should I use AI for this?" is partly an engineering question about whether it's the right tool for the job, and partly a question about what it costs and who bears that cost.
+Both are in scope here.
+
+### How this maps to the AI Readiness framework
+
+Northeastern describes four dimensions of AI readiness.
+This course's assignments touch all four:
+
+1. **Understanding AI and Data** — *how does AI work?*
+   We point these tools at real modelling problems and look at where and why they fail.
+2. **Critical Thinking and Judgement** — *how do I evaluate AI output?*
+   The central one for us.
+   Numerical answers can be checked against convergence, limiting cases, and conservation laws, which makes this an unusually good course in which to practise not taking an answer on trust.
+3. **Ethical and Responsible Use** — attribution, data handling, and the costs above.
+4. **Human-Centricity, Emotional Intelligence, and Creativity** — deciding when *not* to reach for it.
+
 ## Academic integrity.
 Academic dishonesty violates the most fundamental values of an intellectual community and undermines the achievements of the entire University.
 Please be familiar with the Northeastern University Academic Integrity Policy which you can find at  https://catalog.northeastern.edu/handbook/policies-regulations/academic-integrity/.

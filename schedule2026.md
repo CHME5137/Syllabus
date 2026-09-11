@@ -9,6 +9,12 @@ Tuesdays and Fridays, 9:50 – 11:30am, Behrakis Room 307.
 > dates and the no-class days are fixed; everything attached to them is not.
 > This page is the live version — check it rather than a copy you downloaded.
 
+### AI on assignments
+
+Every assignment below carries one of four labels — **Prohibited**, **Permitted**, **Encouraged**, **Required** — with the scope spelled out underneath it.
+See [Use of AI](README.md#use-of-ai) in the syllabus for what the labels mean and why they differ from one assignment to the next.
+Anything not yet labelled will be before it is assigned.
+
 Fall 2026 term runs Wednesday September 9 to Sunday December 13.
 Neither Indigenous Peoples Day (Monday October 12) nor Veterans Day
 (Wednesday November 11) falls on a class day this year, so the only
@@ -24,10 +30,15 @@ one fewer than 2025.
   - design (predict and simulate)
 
 ## Assignment 1
+**AI: Permitted.**
+Nothing here is a skill I'm assessing — if a chatbot gets you through an installation error faster, good.
+
 Register for and/or install the following.
 * [GitHub Student Developer Pack](https://education.github.com/pack)
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [Claude.ai](https://claude.ai/) (sign up with your Northeastern email)
+* [Claude, via the Northeastern portal](https://claude.northeastern.edu/) — free to all NU students; just sign in with your Northeastern account.
+  Use this rather than the public claude.ai: it's the instance the University has reviewed and approved, and Northeastern states that Anthropic will not train on your inputs.
+  (Restricted or confidential research data still shouldn't go in — see [Use of AI](README.md#use-of-ai).)
 * [Anaconda (Miniconda)](https://docs.conda.io/en/latest/miniconda.html)
 * [Explorer cluster account](https://rc.northeastern.edu/support/training/) ([Connecting instructions](https://rc-docs.northeastern.edu/en/explorer-main/connectingtocluster/index.html))
 
@@ -44,6 +55,10 @@ Simple Python.
 * CodingBat Python practice
 
 ## Assignment 2. Python book reviews.
+**AI: Prohibited.**
+The whole point is *your* judgement of the book — whether it explains things in a way that works for you.
+An AI has not read it the way you have, and cannot tell you whether it helped you.
+
 Partially due Friday September 18.
 Finally due Tuesday September 22.
 
@@ -63,6 +78,11 @@ Finally due Tuesday September 22.
   - required accuracy
 
 ## Assignment 3.
+**AI: Permitted as a tutor, prohibited as an author.**
+Ask it to explain the method, to walk you through the derivation, or to tell you what a NumPy error means.
+Do not ask it for the implementation.
+Getting an integrator working yourself, from the maths, is the single most transferable thing in this course, and it is worth the struggle.
+
 Implement 2-step Adams Bashforth in Python
 
 ## Lecture 5 - Friday September 25
@@ -72,6 +92,10 @@ Implement 2-step Adams Bashforth in Python
   - inputs, black box, outputs
 
 ## Assignment 4.
+**AI: Prohibited.**
+It's a short, well-written story and the notes are for you.
+A summary of a summary teaches nobody anything.
+
 Read the git parable, take some notes.
 
 ## Lecture 6 - Tuesday September 29
@@ -80,6 +104,10 @@ Read the git parable, take some notes.
   - Some demo
 
 ## Assignment 5.
+**AI: Encouraged.**
+Git's interface is famously unfriendly and asking an assistant what a command is about to do — before you run it — is exactly the right use.
+Say what you asked and what it told you.
+
 Make a git commit, and pull request, https://github.com/CHME5137/github-assignment
 
 ## Lecture 7 - Friday October 2
@@ -93,6 +121,10 @@ Make a git commit, and pull request, https://github.com/CHME5137/github-assignme
 * Differential Equations, using SciPy's solve_ivp
 
 ## Assignment 6.
+**AI: Prohibited.**
+It's an interactive puzzle game; handing the puzzles to a model skips the only thing it does.
+Build the mental model of branches yourself.
+
 https://learngitbranching.js.org/
 
 ## Lecture 9 - Friday October 9
@@ -104,6 +136,9 @@ https://learngitbranching.js.org/
   - how the rejection free algorithm works
 
 ## Assignment 7.
+**AI: Prohibited.**
+Read the chapter.
+
 Read assigned chapter of Debugging book
 
 ## Lecture 11 - Friday October 16
@@ -138,6 +173,11 @@ Read assigned chapter of Debugging book
 
 ## Lecture 17 - Friday November 6
 * Project Proposals
+
+**Projects — AI: Encouraged, with documentation.**
+For the project and the final report, use whatever helps you build a better model, and keep a record of how you used it.
+Two limits: verify anything safety-related independently, and do not put unpublished or sponsor-restricted research data into a commercial tool.
+See [Use of AI](README.md#use-of-ai).
 
 ## Lecture 18 - Tuesday November 10
 Prof West at AIChE Annual Meeting (November 8-12, Minneapolis).
