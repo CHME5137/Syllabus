@@ -101,8 +101,8 @@ Tell the instructor as soon as you have an idea that might improve the course.
 *Claude (Opus 5) was used to help draft this policy, combining Department guidance, University policy, and the instructor's own experience and judgment.*
 
 This is an elective, and the goal is AI **fluency**: by the end of the course you should be able to judge not just *how* to use these tools but *when*, and to evaluate what they hand back.
-Under the Chemical Engineering Department's AI guidance (approved 25 August 2026) elective courses are "permitted as defined in the course" — so what follows is the definition for this course.
-It supplements Northeastern's [Policy 125](https://policies.northeastern.edu/policy125/) and the Provost's [Standards for the Use of Generative AI in Teaching and Learning](https://provost.northeastern.edu/wp-content/uploads/2025/07/Standards-and-Recommendations-for-the-Use-of-Generative-AI-in-Teaching-and-Learning-at-Northeastern-FINAL-07.01.25.pdf).
+Under the Chemical Engineering Department's AI guidance (August 2026) student use of AI in elective courses is "permitted as defined in the course" — so what follows is the definition for this course.
+It supplements the Provost's [Standards for the Use of Generative AI in Teaching and Learning](https://provost.northeastern.edu/wp-content/uploads/2025/07/Standards-and-Recommendations-for-the-Use-of-Generative-AI-in-Teaching-and-Learning-at-Northeastern-FINAL-07.01.25.pdf); my own use of these tools is additionally governed by Northeastern's [Policy 125](https://policies.northeastern.edu/policy125/) on the Use of Artificial Intelligence Systems.
 Where they conflict, University policy governs.
 
 ### The principle
