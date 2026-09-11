@@ -246,6 +246,7 @@ Classes may be recorded to enable all students to review material covered in syn
 ## Attendance
 Please stay home if you think you might have a communicable illness - we will accommodate your absence.
 With that said, please come to class whenever you can - we all benefit from having you here when healthy - and please let me know as soon as possible if you're going to miss a class.
+Absences for religious observance will be excused, with a reasonable accommodation for any work you miss, under the University [Policy on Student Religious Accommodations for Academic Activities](https://policies.northeastern.edu/policy201/); just give me as much advance notice as you can.
 The virtual meetings on the class calendar are there to facilitate making recordings; they are not intended to encourage remote participation or to excuse truancy.
 
 ## Course Outcomes
