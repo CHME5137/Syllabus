@@ -218,7 +218,7 @@ To receive accommodations through DAS, students must provide documentation of a 
 Accommodations are approved based on a review of the information that is submitted and reviews are done on a case-by-case basis.
 For more information, visit https://disabilityaccessservices.northeastern.edu.
 
-## Outreach, Engagement, Belonging
+## Belonging
 Northeastern University is committed to fostering a community of belonging, which is essential to the advancement of our mission of teaching and research.
 Our university is stronger as a result of the varied backgrounds, experiences, and perspectives that all members of our global community bring to the pursuit of knowledge.
 Embracing this pluralism is not the work of one office, department, or academic unit.
@@ -233,8 +233,12 @@ Your suggestions are encouraged and appreciated.
 For more information the Northeastern University site about Belonging is at https://belonging.northeastern.edu and the Chemical Engineering Department's statement on Belonging is at https://che.northeastern.edu/community/belonging/
 
 
-## Policy on Sexual and Gender-Based Harassment and Title IX The Northeastern
-University [Policy on Sexual and Gender-Based Harassment and Title IX](https://policies.northeastern.edu/policy104/) articulates how the University will respond to reported allegations of Sexual Harassment, Quid Pro Quo Harassment, Sexual Assault, Domestic Violence, Intimate Partner Violence, Dating Violence, Stalking, Gender-Based Harassment and Retaliation, and provides a consolidated statement of the rights and responsibilities under University policies and Title IX, as amended by the Violence Against Women Reauthorization Act of 2013 and the U.S. Department of Education and Office for Civil Rights’ revised regulations in 2020 to the Title IX of the Education Amendments of 1972 (Title IX), 20 U.S.C. § 1681. The policy describes how areas within the University will coordinate the provision of interim remedies and the prompt and effective investigation of allegations of Prohibited Offenses. This policy applies to all members of the University community, including students and prospective students, employees and prospective employees, faculty, staff and volunteers in connection with university activities. It further applies to on- or off-campus behavior involving students. Please visit http://www.northeastern.edu/ouec for a complete list of reporting options and further information.
+## Policy on Sexual and Gender-Based Harassment and Title IX
+The Northeastern University [Policy on Sexual and Gender-Based Harassment and Title IX](https://policies.northeastern.edu/policy104/) articulates how the University will respond to reported allegations of Sexual Harassment, Quid Pro Quo Sexual Harassment, Hostile Environment Sexual Harassment, Sexual Assault, Sexual Exploitation, Sex-based Discrimination, Domestic Violence, Dating Violence, Stalking, Gender-Based Harassment and Retaliation, and provides a consolidated statement of the rights and responsibilities under University policies and applicable law, including Title IX of the Education Amendments of 1972 (Title IX), 20 U.S.C. § 1681, the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act, and the Violence Against Women Reauthorization Act of 2022.
+The policy describes how areas within the University will coordinate the provision of interim remedies and the prompt and effective investigation of allegations of Prohibited Offenses.
+This policy applies to all members of the University community, including students and prospective students, employees and prospective employees, faculty, staff and volunteers in connection with university activities.
+It further applies to on- or off-campus behavior involving students.
+Please visit https://ouec.northeastern.edu for a complete list of reporting options and further information.
 
 ## Recording of Classes
 Classes may be recorded to enable all students to review material covered in synchronous classes. Please contact me if you have any concerns.
