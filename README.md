@@ -158,14 +158,15 @@ Labels for the assignments planned so far are in the [schedule](https://github.c
 
 ### What you can expect from me
 
-* Some course materials, examples, slides, and this syllabus, are drafted with AI assistance.
+* **I use AI tools to support my work.**
+  Some course materials, examples, and this syllabus, are drafted with AI assistance.
   I read, run, and edit everything before you see it, and I am responsible for its accuracy.
   Where the process is interesting or instructive I would rather show it to you than hide it.
 * **The grades I assign are my own.**
   I do not use AI to decide what open-ended work is worth.
 * **You may opt in to AI feedback on your drafts.**
-  On some work I will invite you to run your own work past an AI tool for formative feedback before you hand it in.
-  It is entirely your choice and taking it up or declining it has no bearing on your grade.
+  Sometimes I will invite you to run your own work past an AI tool for formative feedback.
+  It is your choice and taking it up or declining it has no bearing on your grade.
   If you do use it, mention it in your AI note, and tell me whether the feedback was actually any good.
   The data restrictions still apply: don't put unpublished, sponsor-restricted, or not-yet-disclosed work into a tool to get feedback on it.
 * **I do not use AI detection tools.**
