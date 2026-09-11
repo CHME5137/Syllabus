@@ -3,12 +3,11 @@
 Tuesdays and Fridays, 9:50 – 11:30am, Behrakis Room 307.
 
 > **This schedule is tentative and will change.**
-> Topics past the next week or two are a plan, not a promise: what we cover
+> Topics past the next week or so are only a plan: what we cover
 > and when depends on how fast we go, what you're interested in, and how the
 > projects develop. Expect topics to move, split, merge, or get dropped. The
 > dates and the no-class days are fixed; everything attached to them is not.
-> This page is the live version — check it rather than a copy you downloaded,
-> and see the commit history if you want to know what moved.
+> This page is the live version — check it rather than a copy you downloaded.
 
 Fall 2026 term runs Wednesday September 9 to Sunday December 13.
 Neither Indigenous Peoples Day (Monday October 12) nor Veterans Day
