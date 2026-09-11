@@ -114,7 +114,6 @@ If not, you didn't learn it, and the bill comes due later in this course, in you
 
 Sometimes struggling with something unaided is simply the fastest way to learn it.
 Where an assignment restricts AI, that is why.
-It isn't a trust exercise.
 
 ### Read the label on each assignment
 
@@ -157,37 +156,31 @@ Labels for the assignments planned so far are in the [schedule](https://github.c
 
 ### What you can expect from me
 
-* Some course materials, examples and slides are drafted with AI assistance.
-  I read, run and edit everything before you see it, and I am responsible for its accuracy.
-  Where the process is interesting or instructive I would rather show you it than hide it.
+* Some course materials, examples, slides, and this syllabus, are drafted with AI assistance.
+  I read, run, and edit everything before you see it, and I am responsible for its accuracy.
+  Where the process is interesting or instructive I would rather show it to you than hide it.
 * **The grades I assign are my own.**
-  I do not use AI to produce them, and I do not feed your submitted work to a model to decide what it's worth.
-  Grading open-ended work with generative AI would require AI Review Committee review under Policy 125; I have not sought it, because I don't want to grade that way.
-* **You may opt in to AI feedback on your own drafts.**
-  On some work I will invite you to run your own draft past an AI tool for formative feedback before you hand it in — to catch the obvious things, or to have something argue with you about your assumptions.
-  It is entirely your choice, it happens on your side rather than mine, and taking it up or declining it has no bearing on your grade.
+  I do not use AI to decide what open-ended work is worth.
+* **You may opt in to AI feedback on your drafts.**
+  On some work I will invite you to run your own work past an AI tool for formative feedback before you hand it in.
+  It is entirely your choice and taking it up or declining it has no bearing on your grade.
   If you do use it, mention it in your AI note, and tell me whether the feedback was actually any good.
-  I'm interested in the answer.
-  The data restrictions above still apply: don't put unpublished, sponsor-restricted, or not-yet-disclosed work into a tool to get feedback on it.
+  The data restrictions still apply: don't put unpublished, sponsor-restricted, or not-yet-disclosed work into a tool to get feedback on it.
 * **I do not use AI detection tools.**
-  They do not work, they generate false positives, and the University does not recommend them.
   If I have a question about how you produced something, I will ask you to walk me through it — which is usually a good conversation anyway.
-* I will not put your name, your grades, or your submitted work into a tool that isn't approved for it.
 
 ### For both of us
 
 * **A chatbot is not office hours.**
-  It cannot see your project, does not know what we covered on Tuesday, and will not notice that you have misunderstood the question rather than the method.
+  It cannot read my mind, does not know what we covered on Tuesday, and will not notice if you have misunderstood the goal rather than the method.
   Come and talk to me.
-  The offer is real, and it is underused.
 * **Budget the time honestly.**
-  AI is fast at producing something and slow at producing something correct.
+  AI is fast at producing something and slow at producing something good.
   Debugging code you don't understand, written by a model that also doesn't understand it, is one of the worse ways to spend an evening.
   Plan for verification, not just generation.
 * **Notice what it costs.**
   Training and running these models consumes real energy and water, and the infrastructure doesn't get sited evenly.
   "Should I use AI for this?" is partly an engineering question about whether it's the right tool for the job, and partly a question about what it costs and who bears that cost.
-Both are in scope here.
 
 ### How this maps to the AI Readiness framework
 
