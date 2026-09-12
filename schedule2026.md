@@ -30,17 +30,28 @@ one fewer than 2025.
   - design (predict and simulate)
 
 ## Assignment 1
+Due Friday September 18.
 **AI: Permitted.**
 Nothing here is a skill I'm assessing — if a chatbot gets you through an installation error faster, good.
 
 Register for and/or install the following.
-* [GitHub Student Developer Pack](https://education.github.com/pack)
+* [GitHub Student Developer Pack](https://education.github.com/pack) — you'll need a [GitHub account](https://github.com/join) first, then apply with your Northeastern email.
+  It's free, and it includes **GitHub Copilot Student**: AI code completion inside VS Code, plus the JetBrains IDEs, cloud credits, and a long list of other things.
+  Verification can take a few days, so don't leave it until Thursday night.
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Claude, via the Northeastern portal](https://claude.northeastern.edu/) — free to all NU students; just sign in with your Northeastern account.
   Use this rather than the public claude.ai: it's the instance the University has reviewed and approved, and Northeastern states that Anthropic will not train on your inputs.
   (Restricted or confidential research data still shouldn't go in — see [Use of AI](README.md#use-of-ai).)
 * [Anaconda (Miniconda)](https://docs.conda.io/en/latest/miniconda.html)
-* [Explorer cluster account](https://rc.northeastern.edu/support/training/) ([Connecting instructions](https://rc-docs.northeastern.edu/en/explorer-main/connectingtocluster/index.html))
+
+**You do not need to request an Explorer cluster account this year.** I have asked Research Computing to create
+accounts for the whole class, which should take about a week. Once yours exists, try logging in
+([Connecting instructions](https://rc-docs.northeastern.edu/en/explorer-main/connectingtocluster/index.html)).
+
+Tell me how you got on using the **Assignment 1: Accounts and software setup** quiz on Canvas.
+Re-take it as you finish things — there's no limit on attempts, and it keeps whatever you have already
+marked as done, so you'll only be asked about what's outstanding. It doesn't count towards your final grade;
+it's how I find out who needs a hand.
 
 ## Lecture 2 - Tuesday September 15
 
