@@ -70,7 +70,13 @@ Simple Python.
 The whole point is *your* judgement of the book — whether it explains things in a way that works for you.
 An AI has not read it the way you have, and cannot tell you whether it helped you.
 
-Partially due Friday September 18.
+Ten reviews: six required resources, any three from a second list,
+plus one resource you find yourself. Two questions each
+(who would you recommend it to, and what are the drawbacks),
+then a synthesis saying which is best *for you*.
+Graded on judgement rather than coverage — see the rubric on Canvas.
+
+Partially due Friday September 18 (at least the six required).
 Finally due Tuesday September 22.
 
 ## Lecture 3 - Friday September 18
