@@ -88,11 +88,18 @@ Finally due Tuesday September 22.
 
 ## Lecture 4 - Tuesday September 22
 * Book Reviews
+* Managing your Python environment
+  - why not to install into the global environment
+  - `venv`, `pip`, `conda`; `requirements.txt` and `environment.yml`
+  - Jupyter kernels, and why `pip install` and your notebook can disagree
+  - `module load` on the Explorer cluster
+  - https://softwaredevengresearch.github.io/software-development-research/managing-environment.html
 * 2-Step Adams Bashforth
   - https://en.wikipedia.org/wiki/Linear_multistep_method#Two-step_Adams–Bashforth
 * Convergence
   - order of convergence
   - required accuracy
+  - (Richardson extrapolation deferred to later in the term)
 
 ## Assignment 3.
 **AI: Permitted as a tutor, prohibited as an author.**
