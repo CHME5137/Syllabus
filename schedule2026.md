@@ -94,12 +94,10 @@ Finally due Tuesday September 22.
   - Jupyter kernels, and why `pip install` and your notebook can disagree
   - `module load` on the Explorer cluster
   - https://softwaredevengresearch.github.io/software-development-research/managing-environment.html
-* 2-Step Adams Bashforth
-  - https://en.wikipedia.org/wiki/Linear_multistep_method#Two-step_Adams–Bashforth
-* Convergence
-  - order of convergence
-  - required accuracy
-  - (Richardson extrapolation deferred to later in the term)
+* ~~2-Step Adams Bashforth~~ (moved to Lecture 5)
+* ~~Convergence~~ (moved to Lecture 5)
+
+Environments took the whole second half, so Adams–Bashforth moved to Lecture 5.
 
 ## Assignment 3.
 **AI: Permitted as a tutor, prohibited as an author.**
@@ -107,13 +105,21 @@ Ask it to explain the method, to walk you through the derivation, or to tell you
 Do not ask it for the implementation.
 Getting an integrator working yourself, from the maths, is the single most transferable thing in this course, and it is worth the struggle.
 
-Implement 2-step Adams Bashforth in Python
+Implement 2-step Adams Bashforth in Python, on the decay problem from Lecture 3,
+and compare its convergence with Simple Euler's on a log-log plot.
+Rabbits and foxes is an optional extension.
+
+Due Friday October 2.
 
 ## Lecture 5 - Friday September 25
+* 2-Step Adams Bashforth
+  - https://en.wikipedia.org/wiki/Linear_multistep_method#Two-step_Adams–Bashforth
+* Convergence
+  - order of convergence
+  - required accuracy
 * Bash
+  - `$PATH`, `which`, `source`, and what `module load` and `activate` actually do
   - https://www.w3schools.com/bash/index.php
-* Project scope and planning
-  - inputs, black box, outputs
 
 ## Assignment 4.
 **AI: Prohibited.**
@@ -121,6 +127,8 @@ It's a short, well-written story and the notes are for you.
 A summary of a summary teaches nobody anything.
 
 Read the git parable, take some notes.
+
+Due Tuesday September 29.
 
 ## Lecture 6 - Tuesday September 29
 * Git
@@ -134,15 +142,19 @@ Say what you asked and what it told you.
 
 Make a git commit, and pull request, https://github.com/CHME5137/github-assignment
 
+Try it, and submit your GitHub username, by Friday October 2. Due Tuesday October 6.
+
 ## Lecture 7 - Friday October 2
 
 * More GitHub.
-* Project planning - slide summaries.
+* Project scope and planning
+  - inputs, black box, outputs
 
 ## Lecture 8 - Tuesday October 6
 
-* More GitHub
 * Differential Equations, using SciPy's solve_ivp
+  - rabbits and foxes, as a coupled system
+  - required accuracy: `rtol` and `atol`
 
 ## Assignment 6.
 **AI: Prohibited.**
@@ -151,9 +163,12 @@ Build the mental model of branches yourself.
 
 https://learngitbranching.js.org/
 
+Due Friday October 9.
+
 ## Lecture 9 - Friday October 9
-* Explorer cluster
-* Catch-up / buffer
+* Project planning - slide summaries.
+* Explorer cluster: batch jobs
+  (the rest of Explorer was covered in Lectures 2–4)
 
 ## Lecture 10 - Tuesday October 13
 * Kinetic Monte Carlo
@@ -164,6 +179,8 @@ https://learngitbranching.js.org/
 Read the chapter.
 
 Read assigned chapter of Debugging book
+
+Due Friday October 16.
 
 ## Lecture 11 - Friday October 16
 * Debugging
