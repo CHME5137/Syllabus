@@ -121,6 +121,20 @@ Due Friday October 2.
   - `$PATH`, `which`, `source`, and what `module load` and `activate` actually do
   - https://www.w3schools.com/bash/index.php
 
+## Unix tutorial, in three parts
+**AI: Permitted.**
+Asking an assistant what a command is about to do, or why it gave an error, is exactly the right use.
+The quizzes ask about output from your own terminal, so do the tutorial yourself.
+
+Work through an Explorer edition of the University of Surrey's *UNIX Tutorial for Beginners*,
+in the Canvas module **Linux, Bash, Terminals, and High-Performance Computing Clusters**.
+Each part ends in a short quiz on Canvas: one question answered from a command you ran, and two about the ideas.
+All three parts are open now; the dates are there to pace it, so work straight through if you like.
+
+* Part A: introduction and tutorials 1–2. Due Friday October 2.
+* Part B: tutorials 3–5. Due Tuesday October 6.
+* Part C: tutorials 6–8. Due Tuesday October 13.
+
 ## Assignment 4.
 **AI: Prohibited.**
 It's a short, well-written story and the notes are for you.
@@ -270,7 +284,7 @@ classes is December 13; the final exam period runs December 14-20.)
 This is a list of possible homework assignments that we might pick from.
 Nothing here is assigned until it's announced in class.
 
-- [ ] Bash
+- [x] Bash
 - [ ] Book reviews
 - [ ] Rabbits and foxes diffusing
 - [ ] CodingBat Python practice
