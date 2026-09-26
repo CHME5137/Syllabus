@@ -101,13 +101,18 @@ Environments took the whole second half, so Adams–Bashforth moved to Lecture 5
 
 ## Assignment 3.
 **AI: Permitted as a tutor, prohibited as an author.**
-Ask it to explain the method, to walk you through the derivation, or to tell you what a NumPy error means.
-Do not ask it for the implementation.
-Getting an integrator working yourself, from the maths, is the single most transferable thing in this course, and it is worth the struggle.
+Ask it to explain the method, the stability argument, or what a NumPy error means.
+Do not ask it to write the code or the answers.
+Getting an integrator working yourself, from the maths, and understanding when it fails, is the single most transferable thing in this course, and it is worth the struggle.
 
-Implement 2-step Adams Bashforth in Python, on the decay problem from Lecture 3,
-and compare its convergence with Simple Euler's on a log-log plot.
-Rabbits and foxes is an optional extension.
+Adams–Bashforth: accuracy *and* stability. Download the notebook from Canvas, complete it, and upload it.
+8 points, 2 for each part:
+1. Convergence: implement 2-step Adams–Bashforth on first-order decay and compare it with Euler on a log-log plot (mostly done together in Lecture 5).
+2. Find the largest stable step size for each method, at several rate constants.
+3. Explain why it goes unstable.
+4. Stiff kinetics: two reactions in series, one fast and one slow.
+
+Rabbits and foxes is an entirely optional extra, worth no points.
 
 Due Friday October 2.
 
