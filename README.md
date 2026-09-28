@@ -135,7 +135,7 @@ Some let you use it as a tutor to understand a method, while still asking you to
 Some prohibit it because the struggle is the point.
 Check before you start, and ask me if a label is unclear or seems wrong for what you're trying to do.
 
-Labels for the assignments planned so far are in the [schedule](https://github.com/CHME5137/Syllabus/blob/main/schedule2026.md).
+Each assignment's label, with its scope and the reason for it, is at the top of the assignment on Canvas.
 
 ### What I expect from you
 

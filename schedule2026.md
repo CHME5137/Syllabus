@@ -9,11 +9,8 @@ Tuesdays and Fridays, 9:50 – 11:30am, Behrakis Room 307.
 > dates and the no-class days are fixed; everything attached to them is not.
 > This page is the live version — check it rather than a copy you downloaded.
 
-### AI on assignments
-
-Every assignment below carries one of four labels — **Prohibited**, **Permitted**, **Encouraged**, **Required** — with the scope spelled out underneath it.
-See [Use of AI](README.md#use-of-ai) in the syllabus for what the labels mean and why they differ from one assignment to the next.
-Anything not yet labelled will be before it is assigned.
+Each assignment on Canvas says whether and how you may use AI on it;
+see [Use of AI](README.md#use-of-ai) in the syllabus for what the labels mean.
 
 Fall 2026 term runs Wednesday September 9 to Sunday December 13.
 Neither Indigenous Peoples Day (Monday October 12) nor Veterans Day
@@ -30,28 +27,7 @@ one fewer than 2025.
   - design (predict and simulate)
 
 ## Assignment 1
-Due Friday September 18.
-**AI: Permitted.**
-Nothing here is a skill I'm assessing — if a chatbot gets you through an installation error faster, good.
-
-Register for and/or install the following.
-* [GitHub Student Developer Pack](https://education.github.com/pack) — you'll need a [GitHub account](https://github.com/join) first, then apply with your Northeastern email.
-  It's free, and it includes **GitHub Copilot Student**: AI code completion inside VS Code, plus the JetBrains IDEs, cloud credits, and a long list of other things.
-  Verification can take a few days, so don't leave it until Thursday night.
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Claude, via the Northeastern portal](https://claude.northeastern.edu/) — free to all NU students; just sign in with your Northeastern account.
-  Use this rather than the public claude.ai: it's the instance the University has reviewed and approved, and Northeastern states that Anthropic will not train on your inputs.
-  (Restricted or confidential research data still shouldn't go in — see [Use of AI](README.md#use-of-ai).)
-* [Anaconda (Miniconda)](https://docs.conda.io/en/latest/miniconda.html)
-
-**You do not need to request an Explorer cluster account this year.** I have asked Research Computing to create
-accounts for the whole class, which should take about a week. Once yours exists, try logging in
-([Connecting instructions](https://rc-docs.northeastern.edu/en/explorer-main/connectingtocluster/index.html)).
-
-Tell me how you got on using the **Assignment 1: Accounts and software setup** quiz on Canvas.
-Re-take it as you finish things — there's no limit on attempts, and it keeps whatever you have already
-marked as done, so you'll only be asked about what's outstanding. It doesn't count towards your final grade;
-it's how I find out who needs a hand.
+Register for and install GitHub, VS Code, Claude and Miniconda, then log in to Explorer. Due Friday September 18. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3500413).
 
 ## Lecture 2 - Tuesday September 15
 
@@ -66,18 +42,7 @@ Simple Python.
 * CodingBat Python practice
 
 ## Assignment 2. Python book reviews.
-**AI: Prohibited.**
-The whole point is *your* judgement of the book — whether it explains things in a way that works for you.
-An AI has not read it the way you have, and cannot tell you whether it helped you.
-
-Ten reviews: six required resources, any three from a second list,
-plus one resource you find yourself. Two questions each
-(who would you recommend it to, and what are the drawbacks),
-then a synthesis saying which is best *for you*.
-Graded on judgement rather than coverage — see the rubric on Canvas.
-
-Partially due Friday September 18 (at least the six required).
-Finally due Tuesday September 22.
+Ten resources, and which is best for you. Partially due Friday September 18 (at least the six required). Finally due Tuesday September 22. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496809).
 
 ## Lecture 3 - Friday September 18
 * Differential equations
@@ -100,21 +65,7 @@ Finally due Tuesday September 22.
 Environments took the whole second half, so Adams–Bashforth moved to Lecture 5.
 
 ## Assignment 3.
-**AI: Permitted as a tutor, prohibited as an author.**
-Ask it to explain the method, the stability argument, or what a NumPy error means.
-Do not ask it to write the code or the answers.
-Getting an integrator working yourself, from the maths, and understanding when it fails, is the single most transferable thing in this course, and it is worth the struggle.
-
-Adams–Bashforth: accuracy *and* stability. Download the notebook from Canvas, complete it, and upload it.
-8 points, 2 for each part:
-1. Convergence: implement 2-step Adams–Bashforth on first-order decay and compare it with Euler on a log-log plot (mostly done together in Lecture 5).
-2. Find the largest stable step size for each method, at several rate constants.
-3. Explain why it goes unstable.
-4. Stiff kinetics: two reactions in series, one fast and one slow.
-
-Rabbits and foxes is an entirely optional extra, worth no points.
-
-Due Friday October 2.
+Implement 2-step Adams–Bashforth in Python, and find out when it goes unstable. Due Friday October 2. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496808).
 
 ## Lecture 5 - Friday September 25
 * 2-Step Adams Bashforth
@@ -127,27 +78,10 @@ Due Friday October 2.
   - https://www.w3schools.com/bash/index.php
 
 ## Unix tutorial, in three parts
-**AI: Permitted.**
-Asking an assistant what a command is about to do, or why it gave an error, is exactly the right use.
-The quizzes ask about output from your own terminal, so do the tutorial yourself.
-
-Work through an Explorer edition of the University of Surrey's *UNIX Tutorial for Beginners*,
-in the Canvas module **Linux, Bash, Terminals, and High-Performance Computing Clusters**.
-Each part ends in a short quiz on Canvas: one question answered from a command you ran, and two about the ideas.
-All three parts are open now; the dates are there to pace it, so work straight through if you like.
-
-* Part A: introduction and tutorials 1–2. Due Friday October 2.
-* Part B: tutorials 3–5. Due Tuesday October 6.
-* Part C: tutorials 6–8. Due Tuesday October 13.
+Work through an Explorer edition of the Surrey *UNIX Tutorial for Beginners*; each part ends in a short quiz. Part A due Friday October 2, part B Tuesday October 6, part C Tuesday October 13. [On Canvas](https://northeastern.instructure.com/courses/259534/modules/1925166).
 
 ## Assignment 4.
-**AI: Prohibited.**
-It's a short, well-written story and the notes are for you.
-A summary of a summary teaches nobody anything.
-
-Read the git parable, take some notes.
-
-Due Tuesday September 29.
+Read the git parable, take some notes. Due Tuesday September 29. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496813).
 
 ## Lecture 6 - Tuesday September 29
 * Git
@@ -155,13 +89,7 @@ Due Tuesday September 29.
   - Some demo
 
 ## Assignment 5.
-**AI: Encouraged.**
-Git's interface is famously unfriendly and asking an assistant what a command is about to do — before you run it — is exactly the right use.
-Say what you asked and what it told you.
-
-Make a git commit, and pull request, https://github.com/CHME5137/github-assignment
-
-Try it, and submit your GitHub username, by Friday October 2. Due Tuesday October 6.
+Make a git commit, and pull request, https://github.com/CHME5137/github-assignment. Submit your GitHub username by Friday October 2. Due Tuesday October 6. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496814).
 
 ## Lecture 7 - Friday October 2
 
@@ -176,13 +104,7 @@ Try it, and submit your GitHub username, by Friday October 2. Due Tuesday Octobe
   - required accuracy: `rtol` and `atol`
 
 ## Assignment 6.
-**AI: Prohibited.**
-It's an interactive puzzle game; handing the puzzles to a model skips the only thing it does.
-Build the mental model of branches yourself.
-
-https://learngitbranching.js.org/
-
-Due Friday October 9.
+Learn git branching at https://learngitbranching.js.org/. Due Friday October 9. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496815).
 
 ## Lecture 9 - Friday October 9
 * Project planning - slide summaries.
@@ -194,12 +116,7 @@ Due Friday October 9.
   - how the rejection free algorithm works
 
 ## Assignment 7.
-**AI: Prohibited.**
-Read the chapter.
-
-Read assigned chapter of Debugging book
-
-Due Friday October 16.
+Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496811).
 
 ## Lecture 11 - Friday October 16
 * Debugging
@@ -233,11 +150,6 @@ Due Friday October 16.
 
 ## Lecture 17 - Friday November 6
 * Project Proposals
-
-**Projects — AI: Encouraged, with documentation.**
-For the project and the final report, use whatever helps you build a better model, and keep a record of how you used it.
-Two limits: verify anything safety-related independently, and do not put unpublished or sponsor-restricted research data into a commercial tool.
-See [Use of AI](README.md#use-of-ai).
 
 ## Lecture 18 - Tuesday November 10
 Prof West at AIChE Annual Meeting (November 8-12, Minneapolis).
