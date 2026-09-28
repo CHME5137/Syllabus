@@ -89,7 +89,7 @@ Read the git parable, take some notes. Due Tuesday September 29. [On Canvas](htt
   - Some demo
 
 ## Assignment 5.
-Make a git commit, and pull request, https://github.com/CHME5137/github-assignment. Submit your GitHub username by Friday October 2. Due Tuesday October 6. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496814).
+Make a git commit, and pull request, https://github.com/CHME5137/github-assignment. Due Tuesday October 6. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496814).
 
 ## Lecture 7 - Friday October 2
 
