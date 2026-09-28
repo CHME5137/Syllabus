@@ -94,6 +94,8 @@ Make a git commit, and pull request, https://github.com/CHME5137/github-assignme
 ## Lecture 7 - Friday October 2
 
 * More GitHub.
+  - Jupyter notebooks in git: what goes wrong, and habits that help
+    ([notebooks-and-git.md](https://github.com/CHME5137/github-assignment/blob/main/notebooks-and-git.md))
 * Project scope and planning
   - inputs, black box, outputs
 
@@ -110,6 +112,8 @@ Learn git branching at https://learngitbranching.js.org/. Due Friday October 9. 
 * Project planning - slide summaries.
 * Explorer cluster: batch jobs
   (the rest of Explorer was covered in Lectures 2–4)
+* Jupytext: pair each notebook with a `.py` script,
+  for clean diffs and merges, and to run a notebook as a batch job
 
 ## Lecture 10 - Tuesday October 13
 * Kinetic Monte Carlo
@@ -139,7 +143,6 @@ Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](http
 * PDEs and BVPs
 
 ## Lecture 15 - Friday October 30
-* Jupytext
 * Sensitivity analysis
 
 ## Lecture 16 - Tuesday November 3
