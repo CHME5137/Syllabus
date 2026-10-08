@@ -97,7 +97,6 @@ Make a git commit, and pull request, https://github.com/CHME5137/github-assignme
   - inputs, black box, outputs
   - brainstorm: lots of one-slide ideas, in a shared deck
 * GitHub lab: fork, clone, branch, commit, push, pull request, and merge conflicts
-* ~~Jupyter notebooks in git~~ (moved to Lecture 9)
 
 Tuesday's lab didn't fit, so it took the second half, and notebooks in git moved to
 Lecture 9 to go with jupytext.
