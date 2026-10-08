@@ -104,9 +104,14 @@ Lecture 9 to go with jupytext.
 
 ## Lecture 8 - Tuesday October 6
 
+* GitHub assignment: reviewing and merging pull requests, and merge conflicts
 * Differential Equations, using SciPy's solve_ivp
-  - rabbits and foxes, as a coupled system
   - required accuracy: `rtol` and `atol`
+  - stiff problems: `method=`
+  - rabbits and foxes, as a coupled system (homework)
+
+## Rabbits and foxes with solve_ivp
+Rabbits and foxes again, with SciPy's `solve_ivp`: events, tolerances and methods. In your fork of https://github.com/CHME5137/differential-equations. Due Tuesday October 13. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3520567).
 
 ## Assignment 6.
 Learn git branching at https://learngitbranching.js.org/. Due Friday October 9. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496815).
