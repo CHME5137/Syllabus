@@ -134,11 +134,14 @@ Rabbits and foxes as individual animals: when the foxes peak a second time, how 
 Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496811).
 
 ## Lecture 11 - Friday October 16
-* Project teams announced; teams meet (first 25 minutes)
+* Project proposals: what's expected, and questions (first 15 minutes)
 * Debugging
 
-## Assignment: Team plan
-One page per team: inputs, physics and outputs, three key references, and a team GitHub repository with everyone in it. Due Friday October 23. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
+## Assignment: Claude.ai
+Use Claude's Research mode to help you get started on your project proposal and its literature review. Due Tuesday October 20. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
+
+## Assignment: Project Proposal
+Individual: a 2–5 page proposal for the project you ranked first. Teams are formed from these. Due Thursday October 22, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
 
 ## Lecture 12 - Tuesday October 20
 * Probability
@@ -151,6 +154,7 @@ One page per team: inputs, physics and outputs, three key references, and a team
 Fit a rate constant and the thermochemistry of a reversible reaction to batch-reactor data, with confidence intervals. Due Tuesday October 27.
 
 ## Lecture 13 - Friday October 23
+* Project teams announced; teams meet (first 25 minutes)
 * Regression, continued
   - uncertainty in fitted parameters
   - Polynomial regression
@@ -159,11 +163,11 @@ Fit a rate constant and the thermochemistry of a reversible reaction to batch-re
   - priors, likelihoods and posteriors
   - sampling the posterior with Markov chain Monte Carlo
 
+## Assignment: Team plan
+One page per team, merging your proposals: inputs, physics and outputs, three key references, and a team GitHub repository with everyone in it. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
+
 ## Assignment: Bayesian parameter estimation
 The same reaction data again, now with a posterior: compare its credible intervals with the regression's confidence intervals. Due Friday October 30.
-
-## Assignment: Claude.ai
-Use Claude's Research mode to help you get started on your project, and on your proposal's literature review. Due Tuesday October 27. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
 
 ## Lecture 14 - Tuesday October 27
 * PDEs and BVPs
@@ -180,9 +184,6 @@ Transient diffusion into a rod, by the method of lines. Due Friday November 6.
 ## Assignment: Sensitivity analysis
 Global sensitivity analysis of your own rabbits-and-foxes model from the `solve_ivp` homework. Due Tuesday November 10.
 
-## Assignment: Project Proposal
-A 2–5 page proposal for your team's project. Due Tuesday November 3. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
-
 ## Lecture 16 - Tuesday November 3
 Putting it together: two worked examples.
 * Submarine example
@@ -191,7 +192,7 @@ Putting it together: two worked examples.
    - with search for oxidation kinetics
 
 ## Lecture 17 - Friday November 6
-* Project proposals: a short pitch from each team, and feedback
+* Team plans: a short pitch from each team, and feedback
 
 ## Lecture 18 - Tuesday November 10
 Prof West at AIChE Annual Meeting (November 8-12, Minneapolis).
