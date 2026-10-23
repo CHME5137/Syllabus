@@ -140,9 +140,6 @@ Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](http
 ## Assignment: Claude.ai
 Use Claude's Research mode to help you get started on your project proposal and its literature review. Due Tuesday October 20. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
 
-## Assignment: Project Proposal
-Individual: a 2–5 page proposal for the project you ranked first. Teams are formed from these. Due Thursday October 22, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
-
 ## Lecture 12 - Tuesday October 20
 * Probability
 * Bayes' theorem
@@ -162,6 +159,9 @@ Fit a rate constant and the thermochemistry of a reversible reaction to batch-re
 * Bayesian parameter estimation
   - priors, likelihoods and posteriors
   - sampling the posterior with Markov chain Monte Carlo
+
+## Assignment: Project Proposal
+Individual: a 2–5 page proposal for the project you ranked first. Teams are formed from these. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
 
 ## Assignment: Team plan
 One page per team, merging your proposals: inputs, physics and outputs, three key references, and a team GitHub repository with everyone in it. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
