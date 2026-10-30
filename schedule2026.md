@@ -145,7 +145,7 @@ Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](http
   - Nonlinear regression (`scipy.optimize.curve_fit`)
 
 ## Assignment: Regression
-Fit a rate constant and the thermochemistry of a reversible reaction to batch-reactor data, with confidence intervals. Due Tuesday November 10.
+Fit the kinetics and thermochemistry of a reversible reaction to batch-reactor data, look at the residuals, and say how far to trust the error bars. In your fork of https://github.com/CHME5137/parameter-estimation. Due Tuesday November 10. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3538019).
 
 ## Lecture 13 - Friday October 23
 * Project teams announced; teams meet (first 25 minutes)
