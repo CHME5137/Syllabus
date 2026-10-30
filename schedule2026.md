@@ -137,9 +137,6 @@ Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](http
 * Project proposals: what's expected, and questions (first 15 minutes)
 * Debugging
 
-## Assignment: Claude.ai
-Use Claude's Research mode to help you get started on your project proposal and its literature review. Due Tuesday October 20. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
-
 ## Lecture 12 - Tuesday October 20
 * Probability
 * Bayes' theorem
@@ -161,7 +158,10 @@ Fit a rate constant and the thermochemistry of a reversible reaction to batch-re
   - sampling the posterior with Markov chain Monte Carlo
 
 ## Assignment: Project Proposal
-Individual: a 2–5 page proposal for the project you ranked first. Teams are formed from these. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
+Individual: a 2–5 page proposal for the project you ranked first. Teams are formed from these. Due Tuesday November 3. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
+
+## Assignment: AI literature search
+Use AI research tools on your project's literature, check what they give you, and report what worked. Due with the proposal, Tuesday November 3, as a separate submission. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
 
 ## Assignment: Team plan
 One page per team, merging your proposals: inputs, physics and outputs, three key references, and a team GitHub repository with everyone in it. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
@@ -213,15 +213,12 @@ Run a sectional population-balance solver, change its aggregation kernel, and ch
 ## Lecture 21 - Friday November 20
 * Project progress updates: three minutes per team
 
-## Assignment: Project milestone 2
-First results, and a sensitivity analysis on your own model. Due Friday November 20.
-
 ## Lecture 22 - Tuesday November 24
 * LaTeX, on Overleaf: setting up the report
 * Work on projects. With help.
 
-## Assignment: Report skeleton
-Your final report set up in LaTeX on Overleaf: every section heading, the figures you expect, and the references so far. Due Tuesday December 1.
+## Assignment: Project milestone 2
+First results and a sensitivity analysis on your own model, written into your report's LaTeX skeleton on Overleaf. Due Friday December 4.
 
 ## Fall Break - Friday November 27
 
@@ -273,7 +270,7 @@ Nothing here is assigned until it's announced in class. Ticked ones have been as
 - [ ] Sensitivity
 - [ ] Population balances
 - [ ] Cantera
-- [ ] LaTeX (report skeleton)
+- [ ] LaTeX (report skeleton, in Milestone 2)
 
 ### Topics
 This is not a manifesto or contract, but a reminder list of things it would be cool to cover. i.e. it's too long and we won't cover them all. Ticked ones have been covered.
