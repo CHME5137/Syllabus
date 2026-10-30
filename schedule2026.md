@@ -145,7 +145,7 @@ Read assigned chapter of Debugging book. Due Friday October 16. [On Canvas](http
   - Nonlinear regression (`scipy.optimize.curve_fit`)
 
 ## Assignment: Regression
-Fit a rate constant and the thermochemistry of a reversible reaction to batch-reactor data, with confidence intervals. Due Tuesday October 27.
+Fit a rate constant and the thermochemistry of a reversible reaction to batch-reactor data, with confidence intervals. Due Tuesday November 10.
 
 ## Lecture 13 - Friday October 23
 * Project teams announced; teams meet (first 25 minutes)
@@ -174,7 +174,7 @@ The same reaction data again, now with a posterior: compare its credible interva
   - method of lines
 
 ## Assignment: PDEs
-Transient diffusion into a rod, by the method of lines. Due Friday November 6.
+Transient diffusion into a rod, by the method of lines. Due Tuesday November 17.
 
 ## Lecture 15 - Friday October 30
 * Sensitivity analysis
