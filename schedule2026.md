@@ -158,10 +158,10 @@ Fit the kinetics and thermochemistry of a reversible reaction to batch-reactor d
   - sampling the posterior with Markov chain Monte Carlo
 
 ## Assignment: Project Proposal
-Individual: a 2–5 page proposal for the project you ranked first. Teams are formed from these. Due Tuesday November 3. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
+Individual: a short proposal for your favorite idea from the project ideas deck. Teams are formed from these. Due Wednesday November 4, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496817).
 
 ## Assignment: AI literature search
-Use AI research tools on your project's literature, check what they give you, and report what worked. Due with the proposal, Tuesday November 3, as a separate submission. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
+Use AI research tools on your project's literature, check what they give you, and report what worked. Due with the proposal, Wednesday November 4, 11:59pm, as a separate submission. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
 
 ## Assignment: Team plan
 One page per team, merging your proposals: inputs, physics and outputs, three key references, and a team GitHub repository with everyone in it. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
