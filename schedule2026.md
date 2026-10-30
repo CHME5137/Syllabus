@@ -121,11 +121,6 @@ Learn git branching at https://learngitbranching.js.org/. Due Friday October 9. 
 ## Lecture 10 - Tuesday October 13
 * Kinetic Monte Carlo
   - how the rejection-free algorithm works
-* Projects: down-selecting (last 15 minutes)
-  - read through the deck, and choose your preferences
-
-## Assignment: Project preferences
-Your choices from the project ideas deck. Due Thursday October 15, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523308).
 
 ## Assignment: Kinetic Monte Carlo
 Rabbits and foxes as individual animals: when the foxes peak a second time, how much that varies, and how often they die out. Due Tuesday October 20. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523307).
