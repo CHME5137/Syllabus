@@ -177,7 +177,7 @@ Transient diffusion into a rod, by the method of lines. Due Tuesday November 17.
   - Morris and Sobol methods, with SALib
 
 ## Assignment: Sensitivity analysis
-Global sensitivity analysis of your own rabbits-and-foxes model from the `solve_ivp` homework. Due Tuesday November 10.
+Compare local, Morris and Sobol sensitivity analyses of a cooled continuous stirred-tank reactor, with SALib. In your fork of https://github.com/CHME5137/sensitivity-analysis. Due Tuesday December 1, 8am. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3553098).
 
 ## Lecture 16 - Tuesday November 3
 Putting it together: two worked examples.
@@ -262,7 +262,7 @@ Nothing here is assigned until it's announced in class. Ticked ones have been as
 - [x] Explorer (the Unix tutorial is on Explorer)
 - [x] Debugging reading
 - [ ] PDEs
-- [ ] Sensitivity
+- [x] Sensitivity
 - [ ] Population balances
 - [ ] Cantera
 - [ ] LaTeX (report skeleton, in Milestone 2)
