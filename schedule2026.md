@@ -158,9 +158,6 @@ Individual: a short proposal for your favorite idea from the project ideas deck.
 ## Assignment: AI literature search
 Use AI research tools on your project's literature, check what they give you, and report what worked. Due with the proposal, Wednesday November 4, 11:59pm, as a separate submission. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
 
-## Assignment: Team plan
-One page per team, merging your proposals: inputs, physics and outputs, three key references, and a team GitHub repository with everyone in it. Due Friday October 30. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
-
 ## Assignment: Bayesian parameter estimation
 The same reaction data again, now with a posterior: compare its credible intervals with the regression's confidence intervals. Due Friday October 30.
 
@@ -191,10 +188,7 @@ Putting it together: two worked examples.
 
 ## Lecture 18 - Tuesday November 10
 Prof West at AIChE Annual Meeting (November 8-12, Minneapolis).
-Team work session, towards milestone 1.
-
-## Assignment: Project milestone 1
-Your model's skeleton runs, it's in the team repository, and everyone on the team has committed to it. Due Friday November 13.
+No class.
 
 ## Lecture 19 - Friday November 13
 * Population balance models
@@ -206,14 +200,20 @@ Run a sectional population-balance solver, change its aggregation kernel, and ch
 * Cantera
 
 ## Lecture 21 - Friday November 20
-* Project progress updates: three minutes per team
+* Project teams formed
+* The project milestones, and the smallest model that could work
+* Working on one repository as a team
+* Team work session
+
+## Assignment: Team plan
+One page per team, merging your proposals: inputs, physics and outputs, uncertain inputs, three key references, and a team GitHub repository with everyone in it. Due Monday November 23, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
 
 ## Lecture 22 - Tuesday November 24
 * LaTeX, on Overleaf: setting up the report
 * Work on projects. With help.
 
-## Assignment: Project milestone 2
-First results and a sensitivity analysis on your own model, written into your report's LaTeX skeleton on Overleaf. Due Friday December 4.
+## Assignment: Project milestone 1
+Your model's skeleton runs, it's in the team repository, and everyone on the team has committed to it. Due Tuesday December 1, start of class. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3553214).
 
 ## Fall Break - Friday November 27
 
@@ -221,11 +221,15 @@ No class. (Fall break runs November 25-29; classes resume Monday November 30.)
 
 ## Lecture 23 - Tuesday December 1
 
+* Project progress updates: three minutes per team, showing Milestone 1 running
 * Machine Learning
 
 ## Lecture 24 - Friday December 4
 
 * Work on projects. With help.
+
+## Assignment: Project milestone 2
+First results and a sensitivity analysis on your own model, written into your report's LaTeX skeleton on Overleaf. Due Sunday December 6, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3553215).
 
 ## Assignment: Project Presentation
 Project presentation, in class on Tuesday December 8 or Friday December 11. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496816).
