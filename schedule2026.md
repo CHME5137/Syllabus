@@ -159,14 +159,14 @@ Individual: a short proposal for your favorite idea from the project ideas deck.
 Use AI research tools on your project's literature, check what they give you, and report what worked. Due with the proposal, Wednesday November 4, 11:59pm, as a separate submission. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496810).
 
 ## Assignment: Bayesian parameter estimation
-The same reaction data again, now with a posterior: compare its credible intervals with the regression's confidence intervals. Due Friday October 30.
+The same reaction data again, now with a posterior: compare its credible intervals with the regression's confidence intervals. NOT YET POSTED.
 
 ## Lecture 14 - Tuesday October 27
 * PDEs and BVPs
   - method of lines
 
 ## Assignment: PDEs
-Transient diffusion into a rod, by the method of lines. Due Tuesday November 17.
+Transient diffusion into a rod, by the method of lines. NOT YET POSTED.
 
 ## Lecture 15 - Friday October 30
 * Sensitivity analysis
@@ -192,7 +192,7 @@ No class.
 * Population balance models
 
 ## Assignment: Population balances
-Run a sectional population-balance solver, change its aggregation kernel, and check it against the analytical solution. Due Tuesday November 24.
+Run a sectional population-balance solver, change its aggregation kernel, and check it against the analytical solution. NOT YET POSTED.
 
 ## Lecture 20 - Tuesday November 17
 * Cantera
