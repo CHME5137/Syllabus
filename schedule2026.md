@@ -180,8 +180,6 @@ Compare local, Morris and Sobol sensitivity analyses of a cooled continuous stir
 Putting it together: two worked examples.
 * Submarine example
    - with sensitivity analysis
-* Oxygen pipe combustion example
-   - with search for oxidation kinetics
 
 ## Lecture 17 - Friday November 6
 * Team plans: a short pitch from each team, and feedback
@@ -266,7 +264,7 @@ Nothing here is assigned until it's announced in class. Ticked ones have been as
 - [x] Rabbits and foxes with `solve_ivp`
 - [ ] Flesh out a project (team plan)
 - [ ] Improve a project outline
-- [ ] Kinetic Monte Carlo
+- [x] Kinetic Monte Carlo
 - [ ] Regression
 - [ ] Bayesian parameter estimation
 - [x] Git and github (the parable, a pull request, LearnGitBranching)
@@ -288,11 +286,11 @@ This is not a manifesto or contract, but a reminder list of things it would be c
   - [x] Simple Euler
   - [x] RK4 (briefly; Adams–Bashforth in depth)
   - [x] SciPy
-- [ ] Kinetic Monte Carlo
+- [x] Kinetic Monte Carlo
   - [ ] Code optimization
 - [ ] PDEs
-- [ ] Debugging
-- [ ] Regression
+- [x] Debugging
+- [x] Regression
 - [ ] Bayesian Parameter Estimation
 - [x] Bash
 - [x] Explorer cluster
@@ -300,9 +298,9 @@ This is not a manifesto or contract, but a reminder list of things it would be c
 - [x] Git and GitHub
 - [x] Jupyter notebooks in git, and Jupytext
 - [ ] LaTeX
-- [ ] Population Balance Modeling
-- [ ] Sensitivity Analysis
-- [ ] Cantera
+- [x] Population Balance Modeling
+- [x] Sensitivity Analysis
+- [x] Cantera
 - [ ] Pandas (polyethylene?)
 - [ ] Machine Learning
 - [x] VSCode
