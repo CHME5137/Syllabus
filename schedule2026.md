@@ -12,10 +12,10 @@ Tuesdays and Fridays, 9:50 – 11:30am, Behrakis Room 307.
 Each assignment on Canvas says whether and how you may use AI on it;
 see [Use of AI](README.md#use-of-ai) in the syllabus for what the labels mean.
 
-Fall 2026 term runs Wednesday September 9 to Sunday December 13.
+Fall 2026 classes run Wednesday September 9 to Sunday December 20.
 Neither Indigenous Peoples Day (Monday October 12) nor Veterans Day
 (Wednesday November 11) falls on a class day this year, so the only
-cancellation is the Friday of fall break. That leaves 26 meetings.
+cancellation is the Friday of fall break. That leaves 28 meetings.
 
 ## Lecture 1 - Friday September 11
 * Introduction
@@ -229,22 +229,29 @@ No class. (Fall break runs November 25-29; classes resume Monday November 30.)
 * Work on projects. With help.
 
 ## Assignment: Project milestone 2
-First results and a sensitivity analysis on your own model, written into your report's LaTeX skeleton on Overleaf. Due Sunday December 6, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3553215).
-
-## Assignment: Project Presentation
-Project presentation, in class on Tuesday December 8 or Friday December 11. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496816).
+First results and a sensitivity analysis on your own model, written into your report's LaTeX skeleton on Overleaf. Due Tuesday December 8, start of class. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3553215).
 
 ## Lecture 25 - Tuesday December 8
 
-* Presentations.
+* Topic to be decided
+
+## Assignment: Project Presentation
+Project presentation, in class on Friday December 11. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496816).
 
 ## Lecture 26 - Friday December 11
 
-* Remaining presentations
+* Project presentations
+
+## Lecture 27 - Tuesday December 15
+
+* To be decided
 
 ## Assignment: Final Project
-Final project report, and the link to its GitHub repository. Due Thursday December 10, 11:59pm, the night before the last lecture. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496812). (Last day of full-semester
-classes is December 13; the final exam period runs December 14-20.)
+Final project report, and the link to its GitHub repository. Due Thursday December 17, 11:59pm, the night before the last lecture. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3496812).
+
+## Lecture 28 - Friday December 18
+
+* To be decided. The last class.
 
 
 ### Homeworks
