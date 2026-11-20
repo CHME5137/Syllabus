@@ -203,8 +203,8 @@ Run a sectional population-balance solver, change its aggregation kernel, and ch
 * Working on one repository as a team
 * Team work session
 
-## Assignment: Team plan
-One page per team, merging your proposals: inputs, physics and outputs, uncertain inputs, three key references, and a team GitHub repository with everyone in it. Due Monday November 23, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
+## Assignment: Project milestone 0: team repository and plan
+A team GitHub repository with everyone in it, and a one-page plan in its README that merges your proposals. Each of you submits the repository link. Due Monday November 23, 11:59pm. [On Canvas](https://northeastern.instructure.com/courses/259534/assignments/3523309).
 
 ## Lecture 22 - Tuesday November 24
 * LaTeX, on Overleaf: setting up the report
